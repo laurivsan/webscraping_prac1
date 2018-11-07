@@ -1,0 +1,1013 @@
+Company;Flight;Terminal;Status;Date;Arrival;Real_Arrival;Origin;IATA;Departure;Departure_time;Departure_real_time
+Iberia;IB 5299;1;Aterrizado - Puntual;2018-11-02;00:01;23:58;Amsterdam;AMS;2018-11-01; 21:45;21:46
+Vueling;VY 8305;1;Aterrizado - Puntual;2018-11-02;00:01;23:58;Amsterdam;AMS;2018-11-01; 21:45;21:46
+Iberia;IB 5487;1;Aterrizado - Puntual;2018-11-02;00:01;23:54;London;LGW;2018-11-01; 20:55;20:47
+British Airways;BA 8079;1;Aterrizado - Puntual;2018-11-02;00:01;23:54;London;LGW;2018-11-01; 20:55;20:47
+Vueling;VY 7821;1;Aterrizado - Puntual;2018-11-02;00:01;23:54;London;LGW;2018-11-01; 20:55;20:47
+Iberia;IB 5371;1;Aterrizado - Puntual;2018-11-02;00:05;00:04;Algiers;ALG;2018-11-01; 22:45;22:37
+Vueling;VY 7479;1;Aterrizado - Puntual;2018-11-02;00:05;00:04;Algiers;ALG;2018-11-01; 22:45;22:37
+Qatar Airways;QR 3700;1;Aterrizado - Puntual;2018-11-02;00:05;00:07;Las Palmas;LPA;2018-11-01; 19:45;19:43
+Iberia;IB 5419;1;Aterrizado - Puntual;2018-11-02;00:05;00:07;Las Palmas;LPA;2018-11-01; 19:45;19:43
+Vueling;VY 3007;1;Aterrizado - Puntual;2018-11-02;00:05;00:07;Las Palmas;LPA;2018-11-01; 19:45;19:43
+Vueling;VY 2017;1;Aterrizado - Puntual;2018-11-02;00:10;00:10;Granada;GRX;2018-11-01; 22:45;22:44
+Iberia;IB 5343;1;Aterrizado - Puntual;2018-11-02;00:10;00:10;Granada;GRX;2018-11-01; 22:45;22:44
+Qatar Airways;QR 3601;1;Aterrizado - Puntual;2018-11-02;00:10;00:10;Granada;GRX;2018-11-01; 22:45;22:44
+Iberia;IB 5421;1;Aterrizado - Puntual;2018-11-02;00:45;00:24;Tenerife;TFN;2018-11-01; 20:25;20:12
+Vueling;VY 3209;1;Aterrizado - Puntual;2018-11-02;00:45;00:24;Tenerife;TFN;2018-11-01; 20:25;20:12
+Iberia;IB 2602;1;Aterrizado - Puntual;2018-11-02;05:30;05:14;Buenos Aires;EZE;2018-11-01; 13:00;12:49
+American Airlines;AA 66;1;Aterrizado - Puntual;2018-11-02;06:10;05:44;New York;JFK;2018-11-01; 17:40;17:36
+Finnair;AY 4004;1;Aterrizado - Puntual;2018-11-02;06:10;05:44;New York;JFK;2018-11-01; 17:40;17:36
+British Airways;BA 1556;1;Aterrizado - Puntual;2018-11-02;06:10;05:44;New York;JFK;2018-11-01; 17:40;17:36
+Iberia;IB 4185;1;Aterrizado - Puntual;2018-11-02;06:10;05:44;New York;JFK;2018-11-01; 17:40;17:36
+El Al;LY 8000;1;Aterrizado - Puntual;2018-11-02;06:10;05:44;New York;JFK;2018-11-01; 17:40;17:36
+ASL Airlines Belgium;3V 34;;En Ruta;2018-11-02;06:25;06:25;Liege;LGG;2018-11-02; 04:14;
+Qatar Airways;QR 137;1;Aterrizado - Puntual;2018-11-02;06:45;06:35;Doha;DOH;2018-11-02; 01:45;01:49
+SriLankan Airlines;UL 3547;1;Aterrizado - Puntual;2018-11-02;06:45;06:35;Doha;DOH;2018-11-02; 01:45;01:49
+Cathay Pacific;CX 321;1;Aterrizado - Puntual;2018-11-02;06:55;06:40;Hong Kong;HKG;2018-11-02; 00:15;00:18
+Singapore Airlines;SQ 388;1;Aterrizado - Puntual;2018-11-02;07:10;07:14;Singapore;SIN;2018-11-02; 00:05;00:09
+AVIANCA;AV 6555;1;Aterrizado - Puntual;2018-11-02;07:10;07:14;Singapore;SIN;2018-11-02; 00:05;00:09
+Air New Zealand;NZ 3388;1;Aterrizado - Puntual;2018-11-02;07:10;07:14;Singapore;SIN;2018-11-02; 00:05;00:09
+TAP Portugal;TP 8406;1;Aterrizado - Puntual;2018-11-02;07:10;07:14;Singapore;SIN;2018-11-02; 00:05;00:09
+Virgin Australia;VA 5488;1;Aterrizado - Puntual;2018-11-02;07:10;07:14;Singapore;SIN;2018-11-02; 00:05;00:09
+Ryanair;FR 6363;2;Aterrizado - Puntual;2018-11-02;07:25;07:12;Palma Mallorca;PMI;2018-11-02; 06:30;06:25
+American Airlines;AA 112;1;Aterrizado - Retrasado;2018-11-02;07:40;08:02;Miami;MIA;2018-11-01; 17:45;17:40
+Finnair;AY 4010;1;Aterrizado - Retrasado;2018-11-02;07:40;08:02;Miami;MIA;2018-11-01; 17:45;17:40
+British Airways;BA 1514;1;Aterrizado - Retrasado;2018-11-02;07:40;08:02;Miami;MIA;2018-11-01; 17:45;17:40
+Iberia;IB 4460;1;Aterrizado - Retrasado;2018-11-02;07:40;08:02;Miami;MIA;2018-11-01; 17:45;17:40
+El Al;LY 8161;1;Aterrizado - Retrasado;2018-11-02;07:40;08:02;Miami;MIA;2018-11-01; 17:45;17:40
+LATAM Airlines Brasil;JJ 8114;1;Aterrizado - Retrasado;2018-11-02;07:50;08:08;Sao Paulo;GRU;2018-11-01; 17:25;17:44
+Iberia;IB 7066;1;Aterrizado - Retrasado;2018-11-02;07:50;08:08;Sao Paulo;GRU;2018-11-01; 17:25;17:44
+LATAM Airlines;LA 8114;1;Aterrizado - Retrasado;2018-11-02;07:50;08:08;Sao Paulo;GRU;2018-11-01; 17:25;17:44
+Air Europa;UX 6006;1;Aterrizado - Puntual;2018-11-02;07:50;07:39;Palma Mallorca;PMI;2018-11-02; 07:00;06:58
+Air France;AF 4819;1;Aterrizado - Puntual;2018-11-02;07:50;07:39;Palma Mallorca;PMI;2018-11-02; 07:00;06:58
+Alitalia;AZ 2407;1;Aterrizado - Puntual;2018-11-02;07:50;07:39;Palma Mallorca;PMI;2018-11-02; 07:00;06:58
+Delta Air Lines;DL 6747;1;Aterrizado - Puntual;2018-11-02;07:50;07:39;Palma Mallorca;PMI;2018-11-02; 07:00;06:58
+KLM;KL 3350;1;Aterrizado - Puntual;2018-11-02;07:50;07:39;Palma Mallorca;PMI;2018-11-02; 07:00;06:58
+TAROM;RO 9422;1;Aterrizado - Puntual;2018-11-02;07:50;07:39;Palma Mallorca;PMI;2018-11-02; 07:00;06:58
+Aeroflot;SU 3651;1;Aterrizado - Puntual;2018-11-02;07:50;07:39;Palma Mallorca;PMI;2018-11-02; 07:00;06:58
+Vueling;VY 3915;1;Aterrizado - Puntual;2018-11-02;07:50;07:42;Palma Mallorca;PMI;2018-11-02; 07:00;06:59
+Iberia;IB 5159;1;Aterrizado - Puntual;2018-11-02;07:50;07:42;Palma Mallorca;PMI;2018-11-02; 07:00;06:59
+Qatar Airways;QR 3662;1;Aterrizado - Puntual;2018-11-02;07:50;07:42;Palma Mallorca;PMI;2018-11-02; 07:00;06:59
+Germania;ST 3102;2;Aterrizado - Puntual;2018-11-02;08:00;07:56;Dresden;DRS;2018-11-02; 05:40;
+Vueling;VY 6450;1;Aterrizado - Puntual;2018-11-02;08:00;07:50;Madrid;MAD;2018-11-02; 06:45;06:44
+Iberia;IB 5914;1;Aterrizado - Puntual;2018-11-02;08:00;07:50;Madrid;MAD;2018-11-02; 06:45;06:44
+TUI fly Belgium;TB 1211;2;Aterrizado - Puntual;2018-11-02;08:00;07:51;Ostend;OST;2018-11-02; 06:05;
+Air China;CA 839;1;Aterrizado - Retrasado;2018-11-02;08:00;09:20;Shanghai;PVG;2018-11-02; 01:05;02:27
+Wizz Air;W6 3563;2;Aterrizado - Puntual;2018-11-02;08:00;07:48;Timisoara;TSR;2018-11-02; 06:10;
+Vueling;VY 1311;1;Aterrizado - Puntual;2018-11-02;08:10;07:59;Alicante;ALC;2018-11-02; 07:00;06:52
+Iberia;IB 5365;1;Aterrizado - Puntual;2018-11-02;08:10;07:59;Alicante;ALC;2018-11-02; 07:00;06:52
+Qatar Airways;QR 3531;1;Aterrizado - Puntual;2018-11-02;08:10;07:59;Alicante;ALC;2018-11-02; 07:00;06:52
+Vueling;VY 1431;1;Aterrizado - Puntual;2018-11-02;08:10;08:03;Bilbao;BIO;2018-11-02; 07:00;06:57
+Iberia;IB 5765;1;Aterrizado - Puntual;2018-11-02;08:10;08:03;Bilbao;BIO;2018-11-02; 07:00;06:57
+Qatar Airways;QR 3551;1;Aterrizado - Puntual;2018-11-02;08:10;08:03;Bilbao;BIO;2018-11-02; 07:00;06:57
+Vueling;VY 7000;1;Aterrizado - Puntual;2018-11-02;08:15;08:08;Madrid;MAD;2018-11-02; 07:00;06:57
+Iberia;IB 5010;1;Aterrizado - Puntual;2018-11-02;08:15;08:08;Madrid;MAD;2018-11-02; 07:00;06:57
+easyJet;U2 2759;2;Aterrizado - Puntual;2018-11-02;08:20;08:07;Milan;MXP;2018-11-02; 06:45;06:40
+Vueling;VY 2223;1;Aterrizado - Puntual;2018-11-02;08:20;08:20;Sevilla;SVQ;2018-11-02; 06:45;06:44
+Iberia;IB 5733;1;Aterrizado - Puntual;2018-11-02;08:20;08:20;Sevilla;SVQ;2018-11-02; 06:45;06:44
+Qatar Airways;QR 3605;1;Aterrizado - Puntual;2018-11-02;08:20;08:20;Sevilla;SVQ;2018-11-02; 06:45;06:44
+Vueling;VY 2110;1;Aterrizado - Puntual;2018-11-02;08:25;08:27;Malaga;AGP;2018-11-02; 06:50;06:48
+Iberia;IB 5582;1;Aterrizado - Puntual;2018-11-02;08:25;08:27;Malaga;AGP;2018-11-02; 06:50;06:48
+Qatar Airways;QR 3503;1;Aterrizado - Puntual;2018-11-02;08:25;08:27;Malaga;AGP;2018-11-02; 06:50;06:48
+easyJet;U2 4415;2;Aterrizado - Puntual;2018-11-02;08:25;08:30;Lyon;LYS;2018-11-02; 07:10;07:20
+Ryanair;FR 9369;2;Aterrizado - Puntual;2018-11-02;08:30;08:21;Bologna;BLQ;2018-11-02; 06:45;06:41
+Lufthansa;LH 1808;1;Aterrizado - Puntual;2018-11-02;08:30;08:13;Munich;MUC;2018-11-02; 06:30;06:30
+Air China;CA 6067;1;Aterrizado - Puntual;2018-11-02;08:30;08:13;Munich;MUC;2018-11-02; 06:30;06:30
+Vueling;VY 8007;1;Aterrizado - Puntual;2018-11-02;08:30;08:33;Paris;ORY;2018-11-02; 06:55;07:10
+Iberia;IB 5746;1;Aterrizado - Puntual;2018-11-02;08:30;08:33;Paris;ORY;2018-11-02; 06:55;07:10
+LATAM Airlines;LA 5780;1;Aterrizado - Puntual;2018-11-02;08:30;08:33;Paris;ORY;2018-11-02; 06:55;07:10
+Vueling;VY 3923;1;Aterrizado - Puntual;2018-11-02;08:30;08:43;Palma Mallorca;PMI;2018-11-02; 07:40;07:50
+Iberia;IB 5777;1;Aterrizado - Puntual;2018-11-02;08:30;08:43;Palma Mallorca;PMI;2018-11-02; 07:40;07:50
+Qatar Airways;QR 3655;1;Aterrizado - Puntual;2018-11-02;08:30;08:43;Palma Mallorca;PMI;2018-11-02; 07:40;07:50
+Laudamotion;OE 322;2;Aterrizado - Puntual;2018-11-02;08:35;08:34;Vienna;VIE;2018-11-02; 06:15;
+Joon;JN 1148;1;Aterrizado - Puntual;2018-11-02;08:40;08:19;Paris;CDG;2018-11-02; 06:55;06:52
+China Southern Airlines;CZ 7158;1;Aterrizado - Puntual;2018-11-02;08:40;08:19;Paris;CDG;2018-11-02; 06:55;06:52
+Delta Air Lines;DL 8699;1;Aterrizado - Puntual;2018-11-02;08:40;08:19;Paris;CDG;2018-11-02; 06:55;06:52
+Air Mauritius;MK 9328;1;Aterrizado - Puntual;2018-11-02;08:40;08:19;Paris;CDG;2018-11-02; 06:55;06:52
+Air Austral;UU 8148;1;Aterrizado - Puntual;2018-11-02;08:40;08:19;Paris;CDG;2018-11-02; 06:55;06:52
+Air Europa;UX 3470;1;Aterrizado - Puntual;2018-11-02;08:40;08:19;Paris;CDG;2018-11-02; 06:55;06:52
+Air France;AF 1148;1;Aterrizado - Puntual;2018-11-02;08:40;08:19;Paris;CDG;2018-11-02; 06:55;06:52
+Vueling;VY 1293;1;Aterrizado - Puntual;2018-11-02;08:40;08:25;La Coruna;LCG;2018-11-02; 07:00;06:58
+Iberia;IB 5039;1;Aterrizado - Puntual;2018-11-02;08:40;08:25;La Coruna;LCG;2018-11-02; 07:00;06:58
+Qatar Airways;QR 3637;1;Aterrizado - Puntual;2018-11-02;08:40;08:25;La Coruna;LCG;2018-11-02; 07:00;06:58
+Ryanair;FR 6397;2;Aterrizado - Puntual;2018-11-02;08:40;08:47;Sevilla;SVQ;2018-11-02; 07:00;07:06
+Eurowings Europe;E2 5920;2;Aterrizado - Puntual;2018-11-02;08:40;08:54;Vienna;VIE;2018-11-02; 06:10;06:38
+Austrian;OS 8877;2;Aterrizado - Puntual;2018-11-02;08:40;08:54;Vienna;VIE;2018-11-02; 06:10;06:38
+Eurowings;EW 5920;2;Aterrizado - Puntual;2018-11-02;08:40;08:54;Vienna;VIE;2018-11-02; 06:10;06:38
+Iberia;IB 730;1;Aterrizado - Puntual;2018-11-02;08:45;08:46;Madrid;MAD;2018-11-02; 07:30;07:29
+American Airlines;AA 8662;1;Aterrizado - Puntual;2018-11-02;08:45;08:46;Madrid;MAD;2018-11-02; 07:30;07:29
+Air Europa;UX 2001;1;Aterrizado - Puntual;2018-11-02;08:50;08:47;Madrid;MAD;2018-11-02; 07:30;07:35
+Aerolineas Argentinas;AR 7322;1;Aterrizado - Puntual;2018-11-02;08:50;08:47;Madrid;MAD;2018-11-02; 07:30;07:35
+Delta Air Lines;DL 6768;1;Aterrizado - Puntual;2018-11-02;08:50;08:47;Madrid;MAD;2018-11-02; 07:30;07:35
+Aeroflot;SU 3646;1;Aterrizado - Puntual;2018-11-02;08:50;08:47;Madrid;MAD;2018-11-02; 07:30;07:35
+Brussels Airlines;SN 3695;1;Aterrizado - Puntual;2018-11-02;08:55;08:42;Brussels;BRU;2018-11-02; 07:00;06:56
+Singapore Airlines;SQ 2805;1;Aterrizado - Puntual;2018-11-02;08:55;08:42;Brussels;BRU;2018-11-02; 07:00;06:56
+Eurowings;EW 9440;2;Aterrizado - Puntual;2018-11-02;08:55;08:39;Dusseldorf;DUS;2018-11-02; 06:45;06:42
+Ryanair;FR 6984;2;Aterrizado - Puntual;2018-11-02;08:55;08:31;Rome;FCO;2018-11-02; 07:00;07:00
+Vueling;VY 6109;1;Aterrizado - Retrasado;2018-11-02;08:55;10:13;Rome;FCO;2018-11-02; 07:10;08:36
+Iberia;IB 5181;1;Aterrizado - Retrasado;2018-11-02;08:55;10:13;Rome;FCO;2018-11-02; 07:10;08:36
+LATAM Airlines;LA 5772;1;Aterrizado - Retrasado;2018-11-02;08:55;10:13;Rome;FCO;2018-11-02; 07:10;08:36
+TAP Portugal;TP 1030;1;Aterrizado - Puntual;2018-11-02;08:55;09:09;Porto;OPO;2018-11-02; 06:10;
+UIA;PS 9928;1;Aterrizado - Puntual;2018-11-02;08:55;09:09;Porto;OPO;2018-11-02; 06:10;
+Vueling;VY 3929;1;Aterrizado - Puntual;2018-11-02;08:55;08:38;Palma Mallorca;PMI;2018-11-02; 08:05;07:49
+Iberia;IB 5379;1;Aterrizado - Puntual;2018-11-02;08:55;08:38;Palma Mallorca;PMI;2018-11-02; 08:05;07:49
+Qatar Airways;QR 3552;1;Aterrizado - Puntual;2018-11-02;08:55;08:38;Palma Mallorca;PMI;2018-11-02; 08:05;07:49
+Wizz Air;W6 2375;2;Aterrizado - Puntual;2018-11-02;09:00;08:59;Budapest;BUD;2018-11-02; 06:25;
+Transavia;HV 6787;2;Aterrizado - Puntual;2018-11-02;09:00;08:49;Eindhoven;EIN;2018-11-02; 07:00;
+United Airlines;UA 120;1;Aterrizado - Puntual;2018-11-02;09:00;08:29;Newark;EWR;2018-11-01; 20:25;20:17
+Air Canada;AC 5934;1;Aterrizado - Puntual;2018-11-02;09:00;08:29;Newark;EWR;2018-11-01; 20:25;20:17
+Lufthansa;LH 7968;1;Aterrizado - Puntual;2018-11-02;09:00;08:29;Newark;EWR;2018-11-01; 20:25;20:17
+SWISS;LX 3011;1;Aterrizado - Puntual;2018-11-02;09:00;08:29;Newark;EWR;2018-11-01; 20:25;20:17
+Vueling;VY 1572;1;Aterrizado - Puntual;2018-11-02;09:00;08:53;Asturias;OVD;2018-11-02; 07:30;07:35
+Iberia;IB 5275;1;Aterrizado - Puntual;2018-11-02;09:00;08:53;Asturias;OVD;2018-11-02; 07:30;07:35
+Qatar Airways;QR 3683;1;Aterrizado - Puntual;2018-11-02;09:00;08:53;Asturias;OVD;2018-11-02; 07:30;07:35
+SWISS;LX 1952;1;Aterrizado - Puntual;2018-11-02;09:00;08:55;Zurich;ZRH;2018-11-02; 07:10;07:18
+Air Canada;AC 6792;1;Aterrizado - Puntual;2018-11-02;09:00;08:55;Zurich;ZRH;2018-11-02; 07:10;07:18
+LATAM Airlines;LA 8795;1;Aterrizado - Puntual;2018-11-02;09:00;08:55;Zurich;ZRH;2018-11-02; 07:10;07:18
+Vueling;VY 7460;1;Aterrizado - Puntual;2018-11-02;09:05;09:07;Madrid;MAD;2018-11-02; 07:50;07:50
+Iberia;IB 5016;1;Aterrizado - Puntual;2018-11-02;09:05;09:07;Madrid;MAD;2018-11-02; 07:50;07:50
+Vueling;VY 1439;1;Aterrizado - Puntual;2018-11-02;09:10;09:06;Bilbao;BIO;2018-11-02; 08:00;07:59
+Iberia;IB 5553;1;Aterrizado - Puntual;2018-11-02;09:10;09:06;Bilbao;BIO;2018-11-02; 08:00;07:59
+LATAM Airlines;LA 5758;1;Aterrizado - Puntual;2018-11-02;09:10;09:06;Bilbao;BIO;2018-11-02; 08:00;07:59
+Qatar Airways;QR 3557;1;Aterrizado - Puntual;2018-11-02;09:10;09:06;Bilbao;BIO;2018-11-02; 08:00;07:59
+Lufthansa;LH 1124;1;Aterrizado - Puntual;2018-11-02;09:10;09:15;Frankfurt;FRA;2018-11-02; 07:10;07:23
+Air China;CA 6291;1;Aterrizado - Puntual;2018-11-02;09:10;09:15;Frankfurt;FRA;2018-11-02; 07:10;07:23
+Ethiopian Airlines;ET 1557;1;Aterrizado - Puntual;2018-11-02;09:10;09:15;Frankfurt;FRA;2018-11-02; 07:10;07:23
+ANA;NH 5441;1;Aterrizado - Puntual;2018-11-02;09:10;09:15;Frankfurt;FRA;2018-11-02; 07:10;07:23
+Thai Airways International;TG 7654;1;Aterrizado - Puntual;2018-11-02;09:10;09:15;Frankfurt;FRA;2018-11-02; 07:10;07:23
+United Airlines;UA 8804;1;Aterrizado - Puntual;2018-11-02;09:10;09:15;Frankfurt;FRA;2018-11-02; 07:10;07:23
+Vueling;VY 7477;1;Aterrizado - Puntual;2018-11-02;09:15;09:02;Algiers;ALG;2018-11-02; 07:55;07:42
+Iberia;IB 5247;1;Aterrizado - Puntual;2018-11-02;09:15;09:02;Algiers;ALG;2018-11-02; 07:55;07:42
+Transavia;HV 5131;2;Aterrizado - Puntual;2018-11-02;09:15;09:12;Amsterdam;AMS;2018-11-02; 07:00;07:00
+Delta Air Lines;DL 7516;2;Aterrizado - Puntual;2018-11-02;09:15;09:12;Amsterdam;AMS;2018-11-02; 07:00;07:00
+Vueling;VY 8318;1;Aterrizado - Puntual;2018-11-02;09:15;09:02;Amsterdam;AMS;2018-11-02; 07:00;07:03
+Iberia;IB 5224;1;Aterrizado - Puntual;2018-11-02;09:15;09:02;Amsterdam;AMS;2018-11-02; 07:00;07:03
+LATAM Airlines;LA 5741;1;Aterrizado - Puntual;2018-11-02;09:15;09:02;Amsterdam;AMS;2018-11-02; 07:00;07:03
+Ryanair;FR 8137;2;Aterrizado - Puntual;2018-11-02;09:15;09:17;Ibiza;IBZ;2018-11-02; 08:20;08:24
+Norwegian Air Shuttle;DY 7050;2;Programado;2018-11-02;09:20;09:20;Fort Lauderdale;FLL;2018-11-01; 19:45;
+Delta Air Lines;DL 476;1;Aterrizado - Puntual;2018-11-02;09:20;09:18;New York;JFK;2018-11-01; 20:29;20:24
+Aeromexico;AM 3269;1;Aterrizado - Puntual;2018-11-02;09:20;09:18;New York;JFK;2018-11-01; 20:29;20:24
+KLM;KL 6053;1;Aterrizado - Puntual;2018-11-02;09:20;09:18;New York;JFK;2018-11-01; 20:29;20:24
+Air Europa;UX 3398;1;Aterrizado - Puntual;2018-11-02;09:20;09:18;New York;JFK;2018-11-01; 20:29;20:24
+British Airways;BA 472;1;Aterrizado - Puntual;2018-11-02;09:20;08:56;London;LHR;2018-11-02; 06:15;
+American Airlines;AA 6285;1;Aterrizado - Puntual;2018-11-02;09:20;08:56;London;LHR;2018-11-02; 06:15;
+Iberia;IB 7474;1;Aterrizado - Puntual;2018-11-02;09:20;08:56;London;LHR;2018-11-02; 06:15;
+Vueling;VY 2253;1;Cancelado;2018-11-02;09:20;13:20;Sevilla;SVQ;2018-11-02; 07:45;
+Iberia;IB 5795;1;Cancelado;2018-11-02;09:20;13:20;Sevilla;SVQ;2018-11-02; 07:45;
+Qatar Airways;QR 3578;1;Cancelado;2018-11-02;09:20;13:20;Sevilla;SVQ;2018-11-02; 07:45;
+Ryanair;FR 4584;2;Aterrizado - Puntual;2018-11-02;09:25;09:33;Porto;OPO;2018-11-02; 06:35;06:50
+Vueling;VY 3541;1;Aterrizado - Puntual;2018-11-02;09:30;09:20;Ibiza;IBZ;2018-11-02; 08:35;08:30
+Iberia;IB 5133;1;Aterrizado - Puntual;2018-11-02;09:30;09:20;Ibiza;IBZ;2018-11-02; 08:35;08:30
+LATAM Airlines;LA 5776;1;Aterrizado - Puntual;2018-11-02;09:30;09:20;Ibiza;IBZ;2018-11-02; 08:35;08:30
+Qatar Airways;QR 3553;1;Aterrizado - Puntual;2018-11-02;09:30;09:20;Ibiza;IBZ;2018-11-02; 08:35;08:30
+TAP Portugal;TP 1048;1;Aterrizado - Puntual;2018-11-02;09:30;09:42;Lisbon;LIS;2018-11-02; 06:40;
+Aegean Airlines;A3 1702;1;Aterrizado - Puntual;2018-11-02;09:30;09:42;Lisbon;LIS;2018-11-02; 06:40;
+Air China;CA 7040;1;Aterrizado - Puntual;2018-11-02;09:30;09:42;Lisbon;LIS;2018-11-02; 06:40;
+UIA;PS 9925;1;Aterrizado - Puntual;2018-11-02;09:30;09:42;Lisbon;LIS;2018-11-02; 06:40;
+Azores Airlines;S4 8698;1;Aterrizado - Puntual;2018-11-02;09:30;09:42;Lisbon;LIS;2018-11-02; 06:40;
+Singapore Airlines;SQ 2790;1;Aterrizado - Puntual;2018-11-02;09:30;09:42;Lisbon;LIS;2018-11-02; 06:40;
+United Airlines;UA 6873;1;Aterrizado - Puntual;2018-11-02;09:30;09:42;Lisbon;LIS;2018-11-02; 06:40;
+Vueling;VY 3903;1;Aterrizado - Puntual;2018-11-02;09:30;09:25;Palma Mallorca;PMI;2018-11-02; 08:40;08:34
+Iberia;IB 5985;1;Aterrizado - Puntual;2018-11-02;09:30;09:25;Palma Mallorca;PMI;2018-11-02; 08:40;08:34
+LATAM Airlines;LA 5775;1;Aterrizado - Puntual;2018-11-02;09:30;09:25;Palma Mallorca;PMI;2018-11-02; 08:40;08:34
+Qatar Airways;QR 3681;1;Aterrizado - Puntual;2018-11-02;09:30;09:25;Palma Mallorca;PMI;2018-11-02; 08:40;08:34
+Aer Lingus;EI 562;2;Aterrizado - Puntual;2018-11-02;09:40;09:38;Dublin;DUB;2018-11-02; 06:15;06:31
+British Airways;BA 8948;2;Aterrizado - Puntual;2018-11-02;09:40;09:38;Dublin;DUB;2018-11-02; 06:15;06:31
+Vueling;VY 3713;1;Aterrizado - Puntual;2018-11-02;09:40;09:40;Menorca;MAH;2018-11-02; 08:50;08:51
+Iberia;IB 5136;1;Aterrizado - Puntual;2018-11-02;09:40;09:40;Menorca;MAH;2018-11-02; 08:50;08:51
+Qatar Airways;QR 3663;1;Aterrizado - Puntual;2018-11-02;09:40;09:40;Menorca;MAH;2018-11-02; 08:50;08:51
+Vueling;VY 1303;1;Aterrizado - Puntual;2018-11-02;09:45;09:26;Alicante;ALC;2018-11-02; 08:35;08:19
+Iberia;IB 5251;1;Aterrizado - Puntual;2018-11-02;09:45;09:26;Alicante;ALC;2018-11-02; 08:35;08:19
+Qatar Airways;QR 3606;1;Aterrizado - Puntual;2018-11-02;09:45;09:26;Alicante;ALC;2018-11-02; 08:35;08:19
+Ryanair;FR 6875;2;Aterrizado - Puntual;2018-11-02;09:45;09:15;Dublin;DUB;2018-11-02; 06:15;06:15
+Ryanair;FR 6266;2;Aterrizado - Puntual;2018-11-02;10:00;09:28;Edinburgh;EDI;2018-11-02; 06:20;06:16
+easyJet;U2 8571;2;Aterrizado - Puntual;2018-11-02;10:00;09:38;London;LGW;2018-11-02; 06:55;06:54
+easyJet;U2 4861;2;Aterrizado - Puntual;2018-11-02;10:00;09:45;Naples;NAP;2018-11-02; 08:00;08:06
+Vueling;VY 1421;1;Aterrizado - Puntual;2018-11-02;10:05;09:55;Bilbao;BIO;2018-11-02; 08:55;08:48
+Iberia;IB 5551;1;Aterrizado - Puntual;2018-11-02;10:05;09:55;Bilbao;BIO;2018-11-02; 08:55;08:48
+LATAM Airlines;LA 5764;1;Aterrizado - Puntual;2018-11-02;10:05;09:55;Bilbao;BIO;2018-11-02; 08:55;08:48
+Qatar Airways;QR 3541;1;Aterrizado - Puntual;2018-11-02;10:05;09:55;Bilbao;BIO;2018-11-02; 08:55;08:48
+Ryanair;FR 6354;2;Aterrizado - Puntual;2018-11-02;10:15;10:06;Milan;BGY;2018-11-02; 08:35;08:43
+easyJet;U2 1401;2;Aterrizado - Puntual;2018-11-02;10:15;10:01;Geneva;GVA;2018-11-02; 08:50;08:41
+Vueling;VY 9000;1;Aterrizado - Retrasado;2018-11-02;10:15;10:38;Madrid;MAD;2018-11-02; 09:00;09:14
+Iberia;IB 5018;1;Aterrizado - Retrasado;2018-11-02;10:15;10:38;Madrid;MAD;2018-11-02; 09:00;09:14
+easyJet;U2 6025;2;Aterrizado - Puntual;2018-11-02;10:20;09:58;Bristol;BRS;2018-11-02; 07:20;07:13
+El Al;LY 393;1;Aterrizado - Puntual;2018-11-02;10:20;10:03;Tel Aviv-Yafo;TLV;2018-11-02; 06:30;
+American Airlines;AA 8389;1;Aterrizado - Puntual;2018-11-02;10:20;10:03;Tel Aviv-Yafo;TLV;2018-11-02; 06:30;
+Iberia;IB 2392;1;Aterrizado - Puntual;2018-11-02;10:20;10:03;Tel Aviv-Yafo;TLV;2018-11-02; 06:30;
+TAP Portugal;TP 8918;1;Aterrizado - Puntual;2018-11-02;10:20;10:03;Tel Aviv-Yafo;TLV;2018-11-02; 06:30;
+Ryanair;FR 129;2;Aterrizado - Puntual;2018-11-02;10:25;10:16;Hamburg;HAM;2018-11-02; 07:50;07:49
+Turkish Airlines;TK 1853;1;Aterrizado - Puntual;2018-11-02;10:25;10:19;Istanbul;IST;2018-11-02; 08:45;08:44
+AVIANCA;AV 6615;1;Aterrizado - Puntual;2018-11-02;10:25;10:19;Istanbul;IST;2018-11-02; 08:45;08:44
+Air New Zealand;NZ 4863;1;Aterrizado - Puntual;2018-11-02;10:25;10:19;Istanbul;IST;2018-11-02; 08:45;08:44
+Aeroflot;SU 2638;1;Aterrizado - Puntual;2018-11-02;10:25;10:39;Moscow;SVO;2018-11-02; 07:50;07:44
+Air Europa;UX 3284;1;Aterrizado - Puntual;2018-11-02;10:25;10:39;Moscow;SVO;2018-11-02; 07:50;07:44
+KLM;KL 1665;1;Aterrizado - Puntual;2018-11-02;10:30;10:11;Amsterdam;AMS;2018-11-02; 08:20;08:18
+China Airlines;CI 9495;1;Aterrizado - Puntual;2018-11-02;10:30;10:11;Amsterdam;AMS;2018-11-02; 08:20;08:18
+Delta Air Lines;DL 9601;1;Aterrizado - Puntual;2018-11-02;10:30;10:11;Amsterdam;AMS;2018-11-02; 08:20;08:18
+Etihad Airways;EY 7348;1;Aterrizado - Puntual;2018-11-02;10:30;10:11;Amsterdam;AMS;2018-11-02; 08:20;08:18
+Korean Air;KE 6405;1;Aterrizado - Puntual;2018-11-02;10:30;10:11;Amsterdam;AMS;2018-11-02; 08:20;08:18
+Kenya Airways;KQ 1665;1;Aterrizado - Puntual;2018-11-02;10:30;10:11;Amsterdam;AMS;2018-11-02; 08:20;08:18
+Xiamen Airlines;MF 9353;1;Aterrizado - Puntual;2018-11-02;10:30;10:11;Amsterdam;AMS;2018-11-02; 08:20;08:18
+British Airways;BA 2706;1;Aterrizado - Puntual;2018-11-02;10:30;10:00;London;LGW;2018-11-02; 07:20;07:13
+Iberia;IB 7639;1;Aterrizado - Puntual;2018-11-02;10:30;10:00;London;LGW;2018-11-02; 07:20;07:13
+Air Baltic;BT 681;1;Aterrizado - Puntual;2018-11-02;10:30;10:40;Riga;RIX;2018-11-02; 07:50;
+Iberia;IB 1481;1;Aterrizado - Puntual;2018-11-02;10:30;10:40;Riga;RIX;2018-11-02; 07:50;
+easyJet;U2 4531;2;Aterrizado - Puntual;2018-11-02;10:30;10:30;Berlin;SXF;2018-11-02; 08:00;07:58
+Air Arabia Maroc;3O 377;2;Aterrizado - Retrasado;2018-11-02;10:30;10:48;Tangier;TNG;2018-11-02; 07:45;
+Vueling;VY 6527;1;Aterrizado - Puntual;2018-11-02;10:35;10:33;Bologna;BLQ;2018-11-02; 08:55;08:51
+Iberia;IB 5589;1;Aterrizado - Puntual;2018-11-02;10:35;10:33;Bologna;BLQ;2018-11-02; 08:55;08:51
+Qatar Airways;QR 3703;1;Aterrizado - Puntual;2018-11-02;10:35;10:33;Bologna;BLQ;2018-11-02; 08:55;08:51
+Vueling;VY 6004;1;Aterrizado - Puntual;2018-11-02;10:35;10:29;Florence;FLR;2018-11-02; 08:55;08:47
+Iberia;IB 5366;1;Aterrizado - Puntual;2018-11-02;10:35;10:29;Florence;FLR;2018-11-02; 08:55;08:47
+Qatar Airways;QR 3585;1;Aterrizado - Puntual;2018-11-02;10:35;10:29;Florence;FLR;2018-11-02; 08:55;08:47
+TAROM;RO 421;1;Aterrizado - Puntual;2018-11-02;10:40;10:51;Bucharest;OTP;2018-11-02; 08:30;
+Air Europa;UX 3706;1;Aterrizado - Puntual;2018-11-02;10:40;10:51;Bucharest;OTP;2018-11-02; 08:30;
+Vueling;VY 1574;1;Aterrizado - Puntual;2018-11-02;10:40;10:35;Asturias;OVD;2018-11-02; 09:10;09:05
+Iberia;IB 5432;1;Aterrizado - Puntual;2018-11-02;10:40;10:35;Asturias;OVD;2018-11-02; 09:10;09:05
+Qatar Airways;QR 3596;1;Aterrizado - Puntual;2018-11-02;10:40;10:35;Asturias;OVD;2018-11-02; 09:10;09:05
+Iberia;IB 930;1;Aterrizado - Puntual;2018-11-02;10:45;10:50;Madrid;MAD;2018-11-02; 09:30;09:27
+American Airlines;AA 8733;1;Aterrizado - Puntual;2018-11-02;10:45;10:50;Madrid;MAD;2018-11-02; 09:30;09:27
+AVIANCA;AV 6078;1;Aterrizado - Puntual;2018-11-02;10:45;10:50;Madrid;MAD;2018-11-02; 09:30;09:27
+Vueling;VY 2011;1;Aterrizado - Puntual;2018-11-02;10:50;10:55;Granada;GRX;2018-11-02; 09:25;09:22
+Iberia;IB 5071;1;Aterrizado - Puntual;2018-11-02;10:50;10:55;Granada;GRX;2018-11-02; 09:25;09:22
+Qatar Airways;QR 3593;1;Aterrizado - Puntual;2018-11-02;10:50;10:55;Granada;GRX;2018-11-02; 09:25;09:22
+British Airways;BA 478;1;Aterrizado - Puntual;2018-11-02;10:50;10:26;London;LHR;2018-11-02; 07:45;
+American Airlines;AA 6290;1;Aterrizado - Puntual;2018-11-02;10:50;10:26;London;LHR;2018-11-02; 07:45;
+Iberia;IB 7479;1;Aterrizado - Puntual;2018-11-02;10:50;10:26;London;LHR;2018-11-02; 07:45;
+JAL;JL 6505;1;Aterrizado - Puntual;2018-11-02;10:50;10:26;London;LHR;2018-11-02; 07:45;
+Lufthansa;LH 1810;1;Aterrizado - Retrasado;2018-11-02;10:50;11:08;Munich;MUC;2018-11-02; 08:50;08:57
+AVIANCA;AV 6513;1;Aterrizado - Retrasado;2018-11-02;10:50;11:08;Munich;MUC;2018-11-02; 08:50;08:57
+Etihad Airways;EY 4178;1;Aterrizado - Retrasado;2018-11-02;10:50;11:08;Munich;MUC;2018-11-02; 08:50;08:57
+South African Airways;SA 7834;1;Aterrizado - Retrasado;2018-11-02;10:50;11:08;Munich;MUC;2018-11-02; 08:50;08:57
+United Airlines;UA 9289;1;Aterrizado - Retrasado;2018-11-02;10:50;11:08;Munich;MUC;2018-11-02; 08:50;08:57
+Vueling;VY 2211;1;Aterrizado - Puntual;2018-11-02;10:50;10:59;Sevilla;SVQ;2018-11-02; 09:15;09:16
+Iberia;IB 5093;1;Aterrizado - Puntual;2018-11-02;10:50;10:59;Sevilla;SVQ;2018-11-02; 09:15;09:16
+Qatar Airways;QR 3612;1;Aterrizado - Puntual;2018-11-02;10:50;10:59;Sevilla;SVQ;2018-11-02; 09:15;09:16
+Alitalia;AZ 74;1;Aterrizado - Puntual;2018-11-02;10:55;10:44;Rome;FCO;2018-11-02; 09:05;09:03
+Delta Air Lines;DL 6617;1;Aterrizado - Puntual;2018-11-02;10:55;10:44;Rome;FCO;2018-11-02; 09:05;09:03
+Etihad Airways;EY 2823;1;Aterrizado - Puntual;2018-11-02;10:55;10:44;Rome;FCO;2018-11-02; 09:05;09:03
+Air Serbia;JU 9342;1;Aterrizado - Puntual;2018-11-02;10:55;10:44;Rome;FCO;2018-11-02; 09:05;09:03
+Air Europa;UX 3125;1;Aterrizado - Puntual;2018-11-02;10:55;10:44;Rome;FCO;2018-11-02; 09:05;09:03
+easyJet;U2 2263;2;Aterrizado - Puntual;2018-11-02;10:55;10:54;London;LTN;2018-11-02; 07:45;07:52
+Ryanair;FR 6333;2;Aterrizado - Puntual;2018-11-02;10:55;10:54;Santiago De Compostela;SCQ;2018-11-02; 09:10;09:10
+Vueling;VY 7845;1;Aterrizado - Puntual;2018-11-02;10:55;11:00;Tel Aviv-Yafo;TLV;2018-11-02; 07:10;07:17
+Iberia;IB 5502;1;Aterrizado - Puntual;2018-11-02;10:55;11:00;Tel Aviv-Yafo;TLV;2018-11-02; 07:10;07:17
+Ryanair;FR 6342;2;Aterrizado - Puntual;2018-11-02;11:00;11:06;Rome;FCO;2018-11-02; 09:05;09:24
+Vueling;VY 6208;1;Aterrizado - Retrasado;2018-11-02;11:00;11:21;Geneva;GVA;2018-11-02; 09:30;09:57
+Iberia;IB 5196;1;Aterrizado - Retrasado;2018-11-02;11:00;11:21;Geneva;GVA;2018-11-02; 09:30;09:57
+LATAM Airlines;LA 5773;1;Aterrizado - Retrasado;2018-11-02;11:00;11:21;Geneva;GVA;2018-11-02; 09:30;09:57
+Vueling;VY 9460;1;Aterrizado - Puntual;2018-11-02;11:00;11:02;Madrid;MAD;2018-11-02; 09:45;09:45
+Iberia;IB 5024;1;Aterrizado - Puntual;2018-11-02;11:00;11:02;Madrid;MAD;2018-11-02; 09:45;09:45
+Ryanair;FR 2917;2;Aterrizado - Puntual;2018-11-02;11:05;10:58;Brussels;BRU;2018-11-02; 08:55;09:09
+Vueling;VY 8013;1;Aterrizado - Puntual;2018-11-02;11:05;10:56;Paris;ORY;2018-11-02; 09:30;09:26
+Iberia;IB 5269;1;Aterrizado - Puntual;2018-11-02;11:05;10:56;Paris;ORY;2018-11-02; 09:30;09:26
+Air Europa;UX 6156;1;Aterrizado - Puntual;2018-11-02;11:05;11:04;Palma Mallorca;PMI;2018-11-02; 10:15;10:10
+Air France;AF 4827;1;Aterrizado - Puntual;2018-11-02;11:05;11:04;Palma Mallorca;PMI;2018-11-02; 10:15;10:10
+Alitalia;AZ 2409;1;Aterrizado - Puntual;2018-11-02;11:05;11:04;Palma Mallorca;PMI;2018-11-02; 10:15;10:10
+KLM;KL 3352;1;Aterrizado - Puntual;2018-11-02;11:05;11:04;Palma Mallorca;PMI;2018-11-02; 10:15;10:10
+Aeroflot;SU 3665;1;Aterrizado - Puntual;2018-11-02;11:05;11:04;Palma Mallorca;PMI;2018-11-02; 10:15;10:10
+Vueling;VY 7365;1;Aterrizado - Puntual;2018-11-02;11:05;11:10;Tangier;TNG;2018-11-02; 08:20;09:16
+Iberia;IB 5355;1;Aterrizado - Puntual;2018-11-02;11:05;11:10;Tangier;TNG;2018-11-02; 08:20;09:16
+Joon;JN 1348;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Jet Airways (India);9W 6761;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Aeromexico;AM 6010;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+China Southern Airlines;CZ 7067;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Delta Air Lines;DL 8392;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Gol;G3 8571;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Atlasglobal;KK 7465;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Kenya Airways;KQ 3048;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Air Mauritius;MK 9320;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+China Eastern Airlines;MU 8635;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Air Austral;UU 8348;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Air Europa;UX 3486;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Vietnam Airlines;VN 3672;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Air France;AF 1348;1;Aterrizado - Puntual;2018-11-02;11:10;11:14;Paris;CDG;2018-11-02; 09:30;09:44
+Royal Air Maroc;AT 964;1;Aterrizado - Puntual;2018-11-02;11:10;11:18;Casablanca;CMN;2018-11-02; 09:05;
+Ryanair;FR 6387;2;Aterrizado - Puntual;2018-11-02;11:15;11:15;Malaga;AGP;2018-11-02; 09:35;09:32
+Vueling;VY 2114;1;Aterrizado - Puntual;2018-11-02;11:20;11:29;Malaga;AGP;2018-11-02; 09:45;09:30
+Iberia;IB 5086;1;Aterrizado - Puntual;2018-11-02;11:20;11:29;Malaga;AGP;2018-11-02; 09:45;09:30
+Qatar Airways;QR 3507;1;Aterrizado - Puntual;2018-11-02;11:20;11:29;Malaga;AGP;2018-11-02; 09:45;09:30
+Vueling;VY 3001;1;Aterrizado - Puntual;2018-11-02;11:20;11:10;Las Palmas;LPA;2018-11-02; 07:00;06:53
+Iberia;IB 5811;1;Aterrizado - Puntual;2018-11-02;11:20;11:10;Las Palmas;LPA;2018-11-02; 07:00;06:53
+Qatar Airways;QR 3649;1;Aterrizado - Puntual;2018-11-02;11:20;11:10;Las Palmas;LPA;2018-11-02; 07:00;06:53
+Vueling;VY 6331;1;Aterrizado - Puntual;2018-11-02;11:20;11:27;Milan;MXP;2018-11-02; 09:45;09:45
+Iberia;IB 5177;1;Aterrizado - Puntual;2018-11-02;11:20;11:27;Milan;MXP;2018-11-02; 09:45;09:45
+Vueling;VY 3215;1;Aterrizado - Puntual;2018-11-02;11:20;11:20;Tenerife;TFN;2018-11-02; 07:00;06:49
+Iberia;IB 5113;1;Aterrizado - Puntual;2018-11-02;11:20;11:20;Tenerife;TFN;2018-11-02; 07:00;06:49
+Qatar Airways;QR 3568;1;Aterrizado - Puntual;2018-11-02;11:20;11:20;Tenerife;TFN;2018-11-02; 07:00;06:49
+Vueling;VY 6401;1;Aterrizado - Puntual;2018-11-02;11:20;11:04;Venice;VCE;2018-11-02; 09:30;09:15
+Iberia;IB 5229;1;Aterrizado - Puntual;2018-11-02;11:20;11:04;Venice;VCE;2018-11-02; 09:30;09:15
+LATAM Airlines;LA 5784;1;Aterrizado - Puntual;2018-11-02;11:20;11:04;Venice;VCE;2018-11-02; 09:30;09:15
+Air Nostrum;YW 8313;1;Aterrizado;2018-11-02;11:25;11:25;Badajoz;BJZ;2018-11-02; 09:50;09:46
+American Airlines;AA 8624;1;Aterrizado;2018-11-02;11:25;11:25;Badajoz;BJZ;2018-11-02; 09:50;09:46
+Iberia;IB 8313;1;Aterrizado;2018-11-02;11:25;11:25;Badajoz;BJZ;2018-11-02; 09:50;09:46
+easyJet;U2 1075;2;Aterrizado - Puntual;2018-11-02;11:30;11:15;Basel, Switzerland / Mulhouse;BSL;2018-11-02; 09:50;09:41
+Vueling;VY 6247;1;Aterrizado - Puntual;2018-11-02;11:30;11:34;Zurich;ZRH;2018-11-02; 09:50;09:58
+Iberia;IB 5209;1;Aterrizado - Puntual;2018-11-02;11:30;11:34;Zurich;ZRH;2018-11-02; 09:50;09:58
+Vueling;VY 6101;1;Aterrizado - Puntual;2018-11-02;11:40;11:47;Rome;FCO;2018-11-02; 09:55;09:55
+Iberia;IB 5147;1;Aterrizado - Puntual;2018-11-02;11:40;11:47;Rome;FCO;2018-11-02; 09:55;09:55
+LATAM Airlines;LA 5759;1;Aterrizado - Puntual;2018-11-02;11:40;11:47;Rome;FCO;2018-11-02; 09:55;09:55
+Qatar Airways;QR 3706;1;Aterrizado - Puntual;2018-11-02;11:40;11:47;Rome;FCO;2018-11-02; 09:55;09:55
+Pegasus;PC 1091;2;Aterrizado - Puntual;2018-11-02;11:40;11:30;Istanbul;SAW;2018-11-02; 10:00;
+Vueling;VY 1703;1;Aterrizado - Puntual;2018-11-02;11:40;11:33;Vigo;VGO;2018-11-02; 10:00;09:53
+Iberia;IB 5139;1;Aterrizado - Puntual;2018-11-02;11:40;11:33;Vigo;VGO;2018-11-02; 10:00;09:53
+Qatar Airways;QR 3537;1;Aterrizado - Puntual;2018-11-02;11:40;11:33;Vigo;VGO;2018-11-02; 10:00;09:53
+Vueling;VY 8477;1;Aterrizado - Retrasado;2018-11-02;11:45;12:33;Porto;OPO;2018-11-02; 09:05;09:55
+Iberia;IB 5465;1;Aterrizado - Retrasado;2018-11-02;11:45;12:33;Porto;OPO;2018-11-02; 09:05;09:55
+Qatar Airways;QR 3699;1;Aterrizado - Retrasado;2018-11-02;11:45;12:33;Porto;OPO;2018-11-02; 09:05;09:55
+Vueling;VY 2251;1;Aterrizado - Puntual;2018-11-02;11:45;11:50;Sevilla;SVQ;2018-11-02; 10:10;10:08
+Iberia;IB 5471;1;Aterrizado - Puntual;2018-11-02;11:45;11:50;Sevilla;SVQ;2018-11-02; 10:10;10:08
+Qatar Airways;QR 3584;1;Aterrizado - Puntual;2018-11-02;11:45;11:50;Sevilla;SVQ;2018-11-02; 10:10;10:08
+Vueling;VY 8989;1;Aterrizado - Puntual;2018-11-02;11:50;11:33;Brussels;BRU;2018-11-02; 09:50;09:49
+Iberia;IB 5249;1;Aterrizado - Puntual;2018-11-02;11:50;11:33;Brussels;BRU;2018-11-02; 09:50;09:49
+LATAM Airlines;LA 5769;1;Aterrizado - Puntual;2018-11-02;11:50;11:33;Brussels;BRU;2018-11-02; 09:50;09:49
+Lufthansa;LH 1126;1;Aterrizado - Retrasado;2018-11-02;11:50;12:09;Frankfurt;FRA;2018-11-02; 09:50;10:12
+Air Canada;AC 9186;1;Aterrizado - Retrasado;2018-11-02;11:50;12:09;Frankfurt;FRA;2018-11-02; 09:50;10:12
+AVIANCA;AV 6515;1;Aterrizado - Retrasado;2018-11-02;11:50;12:09;Frankfurt;FRA;2018-11-02; 09:50;10:12
+Etihad Airways;EY 4173;1;Aterrizado - Retrasado;2018-11-02;11:50;12:09;Frankfurt;FRA;2018-11-02; 09:50;10:12
+South African Airways;SA 7832;1;Aterrizado - Retrasado;2018-11-02;11:50;12:09;Frankfurt;FRA;2018-11-02; 09:50;10:12
+SAS;SK 3382;1;Aterrizado - Retrasado;2018-11-02;11:50;12:09;Frankfurt;FRA;2018-11-02; 09:50;10:12
+United Airlines;UA 9360;1;Aterrizado - Retrasado;2018-11-02;11:50;12:09;Frankfurt;FRA;2018-11-02; 09:50;10:12
+Oman Air;WY 5526;1;Aterrizado - Retrasado;2018-11-02;11:50;12:09;Frankfurt;FRA;2018-11-02; 09:50;10:12
+Vueling;VY 8461;1;Aterrizado - Puntual;2018-11-02;11:50;11:37;Lisbon;LIS;2018-11-02; 08:55;08:51
+Iberia;IB 5315;1;Aterrizado - Puntual;2018-11-02;11:50;11:37;Lisbon;LIS;2018-11-02; 08:55;08:51
+Qatar Airways;QR 3645;1;Aterrizado - Puntual;2018-11-02;11:50;11:37;Lisbon;LIS;2018-11-02; 08:55;08:51
+TAP Portugal;TP 1040;1;Aterrizado - Retrasado;2018-11-02;11:50;12:07;Lisbon;LIS;2018-11-02; 09:00;
+EgyptAir;MS 9422;1;Aterrizado - Retrasado;2018-11-02;11:50;12:07;Lisbon;LIS;2018-11-02; 09:00;
+UIA;PS 9940;1;Aterrizado - Retrasado;2018-11-02;11:50;12:07;Lisbon;LIS;2018-11-02; 09:00;
+Azores Airlines;S4 8734;1;Aterrizado - Retrasado;2018-11-02;11:50;12:07;Lisbon;LIS;2018-11-02; 09:00;
+Vueling;VY 3515;1;Aterrizado - Puntual;2018-11-02;11:55;11:58;Ibiza;IBZ;2018-11-02; 11:00;11:09
+Iberia;IB 5129;1;Aterrizado - Puntual;2018-11-02;11:55;11:58;Ibiza;IBZ;2018-11-02; 11:00;11:09
+LATAM Airlines;LA 5774;1;Aterrizado - Puntual;2018-11-02;11:55;11:58;Ibiza;IBZ;2018-11-02; 11:00;11:09
+Qatar Airways;QR 3711;1;Aterrizado - Puntual;2018-11-02;11:55;11:58;Ibiza;IBZ;2018-11-02; 11:00;11:09
+Vueling;VY 8243;1;Aterrizado - Puntual;2018-11-02;12:00;11:46;Paris;CDG;2018-11-02; 10:20;10:12
+Iberia;IB 5217;1;Aterrizado - Puntual;2018-11-02;12:00;11:46;Paris;CDG;2018-11-02; 10:20;10:12
+Vueling;VY 1813;1;Aterrizado - Puntual;2018-11-02;12:00;11:49;Munich;MUC;2018-11-02; 09:50;09:45
+Iberia;IB 5057;1;Aterrizado - Puntual;2018-11-02;12:00;11:49;Munich;MUC;2018-11-02; 09:50;09:45
+Vueling;VY 1671;1;Aterrizado - Puntual;2018-11-02;12:00;12:00;Santiago De Compostela;SCQ;2018-11-02; 10:20;10:17
+Iberia;IB 5053;1;Aterrizado - Puntual;2018-11-02;12:00;12:00;Santiago De Compostela;SCQ;2018-11-02; 10:20;10:17
+Qatar Airways;QR 3634;1;Aterrizado - Puntual;2018-11-02;12:00;12:00;Santiago De Compostela;SCQ;2018-11-02; 10:20;10:17
+Vueling;VY 3715;1;Aterrizado - Puntual;2018-11-02;12:05;12:09;Menorca;MAH;2018-11-02; 11:15;11:19
+Iberia;IB 5335;1;Aterrizado - Puntual;2018-11-02;12:05;12:09;Menorca;MAH;2018-11-02; 11:15;11:19
+Qatar Airways;QR 3665;1;Aterrizado - Puntual;2018-11-02;12:05;12:09;Menorca;MAH;2018-11-02; 11:15;11:19
+Iberia;IB 2604;1;Aterrizado - Puntual;2018-11-02;12:10;11:58;Buenos Aires;EZE;2018-11-01; 19:45;19:33
+KLM;KL 1669;1;Aterrizado - Puntual;2018-11-02;12:15;11:56;Amsterdam;AMS;2018-11-02; 10:05;10:01
+Jet Airways (India);9W 8600;1;Aterrizado - Puntual;2018-11-02;12:15;11:56;Amsterdam;AMS;2018-11-02; 10:05;10:01
+China Airlines;CI 9499;1;Aterrizado - Puntual;2018-11-02;12:15;11:56;Amsterdam;AMS;2018-11-02; 10:05;10:01
+China Southern Airlines;CZ 7796;1;Aterrizado - Puntual;2018-11-02;12:15;11:56;Amsterdam;AMS;2018-11-02; 10:05;10:01
+Delta Air Lines;DL 9602;1;Aterrizado - Puntual;2018-11-02;12:15;11:56;Amsterdam;AMS;2018-11-02; 10:05;10:01
+Xiamen Airlines;MF 9829;1;Aterrizado - Puntual;2018-11-02;12:15;11:56;Amsterdam;AMS;2018-11-02; 10:05;10:01
+China Eastern Airlines;MU 8291;1;Aterrizado - Puntual;2018-11-02;12:15;11:56;Amsterdam;AMS;2018-11-02; 10:05;10:01
+Aeroflot;SU 2718;1;Aterrizado - Puntual;2018-11-02;12:15;12:28;Moscow;SVO;2018-11-02; 09:50;09:44
+Air Europa;UX 3264;1;Aterrizado - Puntual;2018-11-02;12:15;12:28;Moscow;SVO;2018-11-02; 09:50;09:44
+Vueling;VY 6501;1;Aterrizado - Puntual;2018-11-02;12:20;12:04;Naples;NAP;2018-11-02; 10:20;10:24
+Iberia;IB 5235;1;Aterrizado - Puntual;2018-11-02;12:20;12:04;Naples;NAP;2018-11-02; 10:20;10:24
+LATAM Airlines;LA 5778;1;Aterrizado - Puntual;2018-11-02;12:20;12:04;Naples;NAP;2018-11-02; 10:20;10:24
+Qatar Airways;QR 3708;1;Aterrizado - Puntual;2018-11-02;12:20;12:04;Naples;NAP;2018-11-02; 10:20;10:24
+Vueling;VY 8015;1;Aterrizado - Puntual;2018-11-02;12:20;12:11;Paris;ORY;2018-11-02; 10:45;10:45
+Iberia;IB 5507;1;Aterrizado - Puntual;2018-11-02;12:20;12:11;Paris;ORY;2018-11-02; 10:45;10:45
+LATAM Airlines;LA 5768;1;Aterrizado - Puntual;2018-11-02;12:20;12:11;Paris;ORY;2018-11-02; 10:45;10:45
+Norwegian Air Shuttle;DY 1740;2;Aterrizado - Puntual;2018-11-02;12:20;12:17;Oslo;OSL;2018-11-02; 09:00;09:09
+Ryanair;FR 9810;2;Aterrizado - Puntual;2018-11-02;12:20;12:14;London;STN;2018-11-02; 09:05;09:32
+Ryanair;FR 148;2;Aterrizado - Puntual;2018-11-02;12:20;12:12;Berlin;SXF;2018-11-02; 09:45;09:40
+Emirates;EK 185;1;Aterrizado - Puntual;2018-11-02;12:25;11:43;Dubai;DXB;2018-11-02; 07:50;07:50
+Malaysia Airlines;MH 4509;1;Aterrizado - Puntual;2018-11-02;12:25;11:43;Dubai;DXB;2018-11-02; 07:50;07:50
+Qantas;QF 8185;1;Aterrizado - Puntual;2018-11-02;12:25;11:43;Dubai;DXB;2018-11-02; 07:50;07:50
+easyJet;U2 8569;2;Aterrizado - Puntual;2018-11-02;12:25;12:24;London;LGW;2018-11-02; 09:20;09:48
+LOT - Polish Airlines;LO 437;1;Aterrizado - Retrasado;2018-11-02;12:25;12:57;Warsaw;WAW;2018-11-02; 09:15;
+Vueling;VY 8301;1;Aterrizado - Puntual;2018-11-02;12:30;12:21;Amsterdam;AMS;2018-11-02; 10:15;10:22
+Iberia;IB 5369;1;Aterrizado - Puntual;2018-11-02;12:30;12:21;Amsterdam;AMS;2018-11-02; 10:15;10:22
+LATAM Airlines;LA 5742;1;Aterrizado - Puntual;2018-11-02;12:30;12:21;Amsterdam;AMS;2018-11-02; 10:15;10:22
+easyJet;U2 1405;2;Aterrizado - Puntual;2018-11-02;12:30;12:30;Geneva;GVA;2018-11-02; 11:05;11:01
+Jet2;LS 803;2;Aterrizado - Puntual;2018-11-02;12:30;12:01;Manchester;MAN;2018-11-02; 09:00;
+UIA;PS 991;1;Aterrizado - Puntual;2018-11-02;12:35;12:42;Kiev/Kyiv;KBP;2018-11-02; 09:50;09:55
+Iberia;IB 7981;1;Aterrizado - Puntual;2018-11-02;12:35;12:42;Kiev/Kyiv;KBP;2018-11-02; 09:50;09:55
+TAP Portugal;TP 8222;1;Aterrizado - Puntual;2018-11-02;12:35;12:42;Kiev/Kyiv;KBP;2018-11-02; 09:50;09:55
+TUI fly Belgium;TB 1201;2;Aterrizado - Puntual;2018-11-02;12:45;12:34;Antwerp;ANR;2018-11-02; 10:55;
+Norwegian Air Shuttle;DY 7196;2;Aterrizado - Puntual;2018-11-02;12:45;12:34;Newark;EWR;2018-11-02; 00:30;
+Iberia;IB 1130;1;Aterrizado - Puntual;2018-11-02;12:45;12:52;Madrid;MAD;2018-11-02; 11:30;11:43
+American Airlines;AA 8693;1;Aterrizado - Puntual;2018-11-02;12:45;12:52;Madrid;MAD;2018-11-02; 11:30;11:43
+S7 Airlines;S7 891;1;Aterrizado - Retrasado;2018-11-02;12:50;13:41;Moscow;DME;2018-11-02; 10:05;10:47
+Vueling;VY 7823;1;Aterrizado - Puntual;2018-11-02;12:50;12:48;London;LGW;2018-11-02; 09:45;09:53
+British Airways;BA 8061;1;Aterrizado - Puntual;2018-11-02;12:50;12:48;London;LGW;2018-11-02; 09:45;09:53
+Iberia;IB 5253;1;Aterrizado - Puntual;2018-11-02;12:50;12:48;London;LGW;2018-11-02; 09:45;09:53
+LATAM Airlines Peru;LP 2430;1;Aterrizado - Retrasado;2018-11-02;12:50;13:20;Lima;LIM;2018-11-01; 18:15;18:50
+Iberia;IB 7188;1;Aterrizado - Retrasado;2018-11-02;12:50;13:20;Lima;LIM;2018-11-01; 18:15;18:50
+LATAM Airlines;LA 2430;1;Aterrizado - Retrasado;2018-11-02;12:50;13:20;Lima;LIM;2018-11-01; 18:15;18:50
+Ryanair;FR 5711;2;Aterrizado - Puntual;2018-11-02;12:50;12:41;Naples;NAP;2018-11-02; 10:50;10:59
+AVIANCA;AV 18;1;Aterrizado - Retrasado;2018-11-02;12:55;13:22;Bogota;BOG;2018-11-01; 20:20;20:32
+Air China;CA 5306;1;Aterrizado - Retrasado;2018-11-02;12:55;13:22;Bogota;BOG;2018-11-01; 20:20;20:32
+Singapore Airlines;SQ 1192;1;Aterrizado - Retrasado;2018-11-02;12:55;13:22;Bogota;BOG;2018-11-01; 20:20;20:32
+Turkish Airlines;TK 8472;1;Aterrizado - Retrasado;2018-11-02;12:55;13:22;Bogota;BOG;2018-11-01; 20:20;20:32
+Turkish Airlines;TK 1835;1;Aterrizado - Puntual;2018-11-02;12:55;12:40;Istanbul;SAW;2018-11-02; 11:05;11:03
+Ryanair;FR 9163;2;Aterrizado - Puntual;2018-11-02;13:00;13:10;Birmingham;BHX;2018-11-02; 09:45;10:10
+Ryanair;FR 2921;2;Aterrizado - Puntual;2018-11-02;13:00;12:46;Brussels;BRU;2018-11-02; 11:00;11:00
+Lufthansa;LH 1130;1;Aterrizado - Puntual;2018-11-02;13:05;13:13;Frankfurt;FRA;2018-11-02; 11:05;11:10
+United Airlines;UA 9392;1;Aterrizado - Puntual;2018-11-02;13:05;13:13;Frankfurt;FRA;2018-11-02; 11:05;11:10
+Vueling;VY 8653;1;Aterrizado - Puntual;2018-11-02;13:10;13:15;Prague;PRG;2018-11-02; 10:45;10:39
+Iberia;IB 5161;1;Aterrizado - Puntual;2018-11-02;13:10;13:15;Prague;PRG;2018-11-02; 10:45;10:39
+Vueling;VY 8715;1;Aterrizado - Retrasado;2018-11-02;13:10;13:40;Vienna;VIE;2018-11-02; 10:50;11:20
+Iberia;IB 5427;1;Aterrizado - Retrasado;2018-11-02;13:10;13:40;Vienna;VIE;2018-11-02; 10:50;11:20
+Norwegian Air Shuttle;DY 4269;2;Aterrizado - Puntual;2018-11-02;13:15;13:04;Gothenburg;GOT;2018-11-02; 10:15;10:19
+Vueling;VY 1200;1;Aterrizado - Puntual;2018-11-02;13:15;13:08;Madrid;MAD;2018-11-02; 12:00;11:56
+Iberia;IB 5000;1;Aterrizado - Puntual;2018-11-02;13:15;13:08;Madrid;MAD;2018-11-02; 12:00;11:56
+easyJet;U2 2761;2;Aterrizado - Puntual;2018-11-02;13:15;13:19;Milan;MXP;2018-11-02; 11:45;11:53
+Ryanair;FR 6945;2;Aterrizado - Puntual;2018-11-02;13:25;13:25;Modlin;WMI;2018-11-02; 10:15;10:13
+Vueling;VY 1307;1;Aterrizado - Puntual;2018-11-02;13:30;13:13;Alicante;ALC;2018-11-02; 12:20;12:03
+Iberia;IB 5721;1;Aterrizado - Puntual;2018-11-02;13:30;13:13;Alicante;ALC;2018-11-02; 12:20;12:03
+Qatar Airways;QR 3529;1;Aterrizado - Puntual;2018-11-02;13:30;13:13;Alicante;ALC;2018-11-02; 12:20;12:03
+Vueling;VY 1871;1;Aterrizado - Puntual;2018-11-02;13:30;13:28;Copenhagen;CPH;2018-11-02; 10:40;10:34
+Iberia;IB 5397;1;Aterrizado - Puntual;2018-11-02;13:30;13:28;Copenhagen;CPH;2018-11-02; 10:40;10:34
+British Airways;BA 474;1;Aterrizado - Puntual;2018-11-02;13:30;12:58;London;LHR;2018-11-02; 10:20;
+American Airlines;AA 6287;1;Aterrizado - Puntual;2018-11-02;13:30;12:58;London;LHR;2018-11-02; 10:20;
+Iberia;IB 7476;1;Aterrizado - Puntual;2018-11-02;13:30;12:58;London;LHR;2018-11-02; 10:20;
+easyJet;U2 8573;2;Aterrizado - Puntual;2018-11-02;13:35;13:30;London;LGW;2018-11-02; 10:30;10:38
+Jet2;LS 231;2;Aterrizado - Puntual;2018-11-02;13:40;13:01;Leeds;LBA;2018-11-02; 10:10;
+Vueling;VY 1252;1;Aterrizado - Puntual;2018-11-02;13:50;13:38;Almeria;LEI;2018-11-02; 12:25;12:20
+Iberia;IB 5032;1;Aterrizado - Puntual;2018-11-02;13:50;13:38;Almeria;LEI;2018-11-02; 12:25;12:20
+Qatar Airways;QR 3643;1;Aterrizado - Puntual;2018-11-02;13:50;13:38;Almeria;LEI;2018-11-02; 12:25;12:20
+CSA;OK 688;1;Aterrizado - Puntual;2018-11-02;13:50;13:47;Prague;PRG;2018-11-02; 11:25;11:32
+Hainan Airlines;HU 8711;1;Aterrizado - Puntual;2018-11-02;13:50;13:47;Prague;PRG;2018-11-02; 11:25;11:32
+Iberia;IB 1782;1;Aterrizado - Puntual;2018-11-02;13:50;13:47;Prague;PRG;2018-11-02; 11:25;11:32
+Korean Air;KE 7669;1;Aterrizado - Puntual;2018-11-02;13:50;13:47;Prague;PRG;2018-11-02; 11:25;11:32
+SmartWings;QS 8688;1;Aterrizado - Puntual;2018-11-02;13:50;13:47;Prague;PRG;2018-11-02; 11:25;11:32
+Air Europa;UX 3850;1;Aterrizado - Puntual;2018-11-02;13:50;13:47;Prague;PRG;2018-11-02; 11:25;11:32
+Vueling;VY 6333;1;En Ruta - Retrasado;2018-11-02;13:55;16:12;Milan;MXP;2018-11-02; 12:20;14:41
+Iberia;IB 5225;1;En Ruta - Retrasado;2018-11-02;13:55;16:12;Milan;MXP;2018-11-02; 12:20;14:41
+LATAM Airlines;LA 5777;1;En Ruta - Retrasado;2018-11-02;13:55;16:12;Milan;MXP;2018-11-02; 12:20;14:41
+Vueling;VY 2021;1;Aterrizado - Puntual;2018-11-02;14:00;13:58;Granada;GRX;2018-11-02; 12:35;12:34
+Iberia;IB 5085;1;Aterrizado - Puntual;2018-11-02;14:00;13:58;Granada;GRX;2018-11-02; 12:35;12:34
+Qatar Airways;QR 3765;1;Aterrizado - Puntual;2018-11-02;14:00;13:58;Granada;GRX;2018-11-02; 12:35;12:34
+Eurowings;EW 7520;2;Aterrizado - Puntual;2018-11-02;14:00;13:45;Hamburg;HAM;2018-11-02; 11:25;11:26
+easyJet;U2 1697;2;Aterrizado - Puntual;2018-11-02;14:00;13:50;Nice;NCE;2018-11-02; 12:50;12:48
+SWISS;LX 1954;1;Aterrizado - Retrasado;2018-11-02;14:00;14:15;Zurich;ZRH;2018-11-02; 12:20;12:36
+United Airlines;UA 9766;1;Aterrizado - Retrasado;2018-11-02;14:00;14:15;Zurich;ZRH;2018-11-02; 12:20;12:36
+Air France;AF 1648;1;Aterrizado - Puntual;2018-11-02;14:05;14:00;Paris;CDG;2018-11-02; 12:25;12:30
+Jet Airways (India);9W 6762;1;Aterrizado - Puntual;2018-11-02;14:05;14:00;Paris;CDG;2018-11-02; 12:25;12:30
+Aeromexico;AM 6011;1;Aterrizado - Puntual;2018-11-02;14:05;14:00;Paris;CDG;2018-11-02; 12:25;12:30
+China Southern Airlines;CZ 7065;1;Aterrizado - Puntual;2018-11-02;14:05;14:00;Paris;CDG;2018-11-02; 12:25;12:30
+Delta Air Lines;DL 8704;1;Aterrizado - Puntual;2018-11-02;14:05;14:00;Paris;CDG;2018-11-02; 12:25;12:30
+Gol;G3 8573;1;Aterrizado - Puntual;2018-11-02;14:05;14:00;Paris;CDG;2018-11-02; 12:25;12:30
+Atlasglobal;KK 7456;1;Aterrizado - Puntual;2018-11-02;14:05;14:00;Paris;CDG;2018-11-02; 12:25;12:30
+Air Mauritius;MK 9326;1;Aterrizado - Puntual;2018-11-02;14:05;14:00;Paris;CDG;2018-11-02; 12:25;12:30
+China Eastern Airlines;MU 4995;1;Aterrizado - Puntual;2018-11-02;14:05;14:00;Paris;CDG;2018-11-02; 12:25;12:30
+Air Europa;UX 3648;1;Aterrizado - Puntual;2018-11-02;14:05;14:00;Paris;CDG;2018-11-02; 12:25;12:30
+Qatar Airways;QR 145;1;Aterrizado - Puntual;2018-11-02;14:05;13:56;Doha;DOH;2018-11-02; 09:00;09:07
+Luxair;LG 3591;2;Aterrizado;2018-11-02;14:10;14:10;Luxembourg;LUX;2018-11-02; 11:55;11:42
+Ryanair;FR 3044;2;Aterrizado - Retrasado;2018-11-02;14:10;14:31;Venice;VCE;2018-11-02; 12:15;12:46
+Turkish Airlines;TK 1467;1;Aterrizado - Puntual;2018-11-02;14:15;13:56;Istanbul;IST;2018-11-02; 12:35;12:36
+Vueling;VY 1221;1;Aterrizado - Puntual;2018-11-02;14:15;14:07;Lyon;LYS;2018-11-02; 13:00;12:47
+Iberia;IB 5341;1;Aterrizado - Puntual;2018-11-02;14:15;14:07;Lyon;LYS;2018-11-02; 13:00;12:47
+WOW Air;WW 622;2;Aterrizado - Puntual;2018-11-02;14:20;13:28;Reykjavik;KEF;2018-11-02; 09:00;08:52
+British Airways;BA 484;1;Aterrizado - Puntual;2018-11-02;14:20;14:04;London;LHR;2018-11-02; 11:15;
+American Airlines;AA 6728;1;Aterrizado - Puntual;2018-11-02;14:20;14:04;London;LHR;2018-11-02; 11:15;
+Iberia;IB 7484;1;Aterrizado - Puntual;2018-11-02;14:20;14:04;London;LHR;2018-11-02; 11:15;
+Ryanair;FR 3071;2;Aterrizado - Puntual;2018-11-02;14:20;14:16;Palma Mallorca;PMI;2018-11-02; 13:25;13:25
+Air Europa;UX 6060;1;Aterrizado - Puntual;2018-11-02;14:20;14:26;Palma Mallorca;PMI;2018-11-02; 13:30;
+Air France;AF 4813;1;Aterrizado - Puntual;2018-11-02;14:20;14:26;Palma Mallorca;PMI;2018-11-02; 13:30;
+Alitalia;AZ 2413;1;Aterrizado - Puntual;2018-11-02;14:20;14:26;Palma Mallorca;PMI;2018-11-02; 13:30;
+KLM;KL 3320;1;Aterrizado - Puntual;2018-11-02;14:20;14:26;Palma Mallorca;PMI;2018-11-02; 13:30;
+Aeroflot;SU 3650;1;Aterrizado - Puntual;2018-11-02;14:20;14:26;Palma Mallorca;PMI;2018-11-02; 13:30;
+EgyptAir;MS 767;1;Aterrizado - Puntual;2018-11-02;14:25;14:13;Cairo;CAI;2018-11-02; 10:50;11:08
+TAP Portugal;TP 7012;1;Aterrizado - Puntual;2018-11-02;14:25;14:13;Cairo;CAI;2018-11-02; 10:50;11:08
+easyJet;U2 2265;2;Aterrizado - Puntual;2018-11-02;14:25;14:16;London;LTN;2018-11-02; 11:20;11:29
+Vueling;VY 3905;1;Aterrizado - Puntual;2018-11-02;14:25;14:20;Palma Mallorca;PMI;2018-11-02; 13:35;13:35
+Iberia;IB 5151;1;Aterrizado - Puntual;2018-11-02;14:25;14:20;Palma Mallorca;PMI;2018-11-02; 13:35;13:35
+Qatar Airways;QR 3679;1;Aterrizado - Puntual;2018-11-02;14:25;14:20;Palma Mallorca;PMI;2018-11-02; 13:35;13:35
+Norwegian Air International;D8 5571;2;Aterrizado - Puntual;2018-11-02;14:30;14:13;Copenhagen;CPH;2018-11-02; 11:40;11:33
+Iberia;IB 1316;1;Aterrizado - Puntual;2018-11-02;14:30;14:23;Madrid;MAD;2018-11-02; 13:15;13:17
+Vueling;VY 7819;1;Aterrizado - Puntual;2018-11-02;14:40;14:32;London;LGW;2018-11-02; 11:35;11:59
+British Airways;BA 8069;1;Aterrizado - Puntual;2018-11-02;14:40;14:32;London;LGW;2018-11-02; 11:35;11:59
+Iberia;IB 5911;1;Aterrizado - Puntual;2018-11-02;14:40;14:32;London;LGW;2018-11-02; 11:35;11:59
+Vueling;VY 1429;1;Aterrizado - Puntual;2018-11-02;14:45;14:26;Bilbao;BIO;2018-11-02; 13:35;13:26
+Iberia;IB 5555;1;Aterrizado - Puntual;2018-11-02;14:45;14:26;Bilbao;BIO;2018-11-02; 13:35;13:26
+Qatar Airways;QR 3549;1;Aterrizado - Puntual;2018-11-02;14:45;14:26;Bilbao;BIO;2018-11-02; 13:35;13:26
+Brussels Airlines;SN 3703;1;Aterrizado - Puntual;2018-11-02;14:45;14:29;Brussels;BRU;2018-11-02; 12:50;12:51
+Etihad Airways;EY 7273;1;Aterrizado - Puntual;2018-11-02;14:45;14:29;Brussels;BRU;2018-11-02; 12:50;12:51
+Thai Airways International;TG 6508;1;Aterrizado - Puntual;2018-11-02;14:45;14:29;Brussels;BRU;2018-11-02; 12:50;12:51
+United Airlines;UA 9995;1;Aterrizado - Puntual;2018-11-02;14:45;14:29;Brussels;BRU;2018-11-02; 12:50;12:51
+Transavia;HV 6061;2;Aterrizado;2018-11-02;14:45;14:45;Rotterdam;RTM;2018-11-02; 12:45;
+Vueling;VY 6165;1;Aterrizado - Puntual;2018-11-02;15:00;14:44;Cagliari;CAG;2018-11-02; 13:35;13:31
+Iberia;IB 5439;1;Aterrizado - Puntual;2018-11-02;15:00;14:44;Cagliari;CAG;2018-11-02; 13:35;13:31
+Qatar Airways;QR 3569;1;Aterrizado - Puntual;2018-11-02;15:00;14:44;Cagliari;CAG;2018-11-02; 13:35;13:31
+Norwegian Air International;D8 5501;2;En Ruta - Retrasado;2018-11-02;15:00;16:23;London;LGW;2018-11-02; 12:00;13:21
+Lufthansa;LH 1812;1;Aterrizado - Puntual;2018-11-02;15:00;14:51;Munich;MUC;2018-11-02; 13:00;12:59
+Aegean Airlines;A3 1470;1;Aterrizado - Puntual;2018-11-02;15:00;14:51;Munich;MUC;2018-11-02; 13:00;12:59
+Air Canada;AC 9226;1;Aterrizado - Puntual;2018-11-02;15:00;14:51;Munich;MUC;2018-11-02; 13:00;12:59
+SAS;SK 3306;1;Aterrizado - Puntual;2018-11-02;15:00;14:51;Munich;MUC;2018-11-02; 13:00;12:59
+United Airlines;UA 9295;1;Aterrizado - Puntual;2018-11-02;15:00;14:51;Munich;MUC;2018-11-02; 13:00;12:59
+Ryanair;FR 3842;2;Aterrizado - Puntual;2018-11-02;15:00;15:08;London;STN;2018-11-02; 11:45;12:05
+Ryanair;FR 6375;2;Aterrizado - Puntual;2018-11-02;15:05;15:05;Paris;BVA;2018-11-02; 13:20;13:20
+Lufthansa;LH 1128;1;Aterrizado - Puntual;2018-11-02;15:05;15:05;Frankfurt;FRA;2018-11-02; 13:05;13:11
+Air Canada;AC 9288;1;Aterrizado - Puntual;2018-11-02;15:05;15:05;Frankfurt;FRA;2018-11-02; 13:05;13:11
+SAS;SK 3386;1;Aterrizado - Puntual;2018-11-02;15:05;15:05;Frankfurt;FRA;2018-11-02; 13:05;13:11
+United Airlines;UA 8719;1;Aterrizado - Puntual;2018-11-02;15:05;15:05;Frankfurt;FRA;2018-11-02; 13:05;13:11
+easyJet;U2 4533;2;En Ruta - Puntual;2018-11-02;15:05;14:59;Berlin;SXF;2018-11-02; 12:30;12:26
+Ryanair;FR 9112;2;En Ruta - Retrasado;2018-11-02;15:10;15:43;Turin;TRN;2018-11-02; 13:40;14:13
+Vueling;VY 8017;1;En Ruta - Retrasado;2018-11-02;15:15;15:39;Paris;ORY;2018-11-02; 13:40;14:12
+Iberia;IB 5271;1;En Ruta - Retrasado;2018-11-02;15:15;15:39;Paris;ORY;2018-11-02; 13:40;14:12
+Ryanair;FR 3064;2;En Ruta - Puntual;2018-11-02;15:15;15:22;Tenerife;TFN;2018-11-02; 10:50;10:50
+Wizz Air;W6 3405;2;Programado;2018-11-02;15:20;15:20;Cluj-Napoca;CLJ;2018-11-02; 13:20;
+Vueling;VY 3511;1;Programado - Retrasado;2018-11-02;15:20;16:01;Ibiza;IBZ;2018-11-02; 14:25;
+Iberia;IB 5127;1;Programado - Retrasado;2018-11-02;15:20;16:01;Ibiza;IBZ;2018-11-02; 14:25;
+Qatar Airways;QR 3766;1;Programado - Retrasado;2018-11-02;15:20;16:01;Ibiza;IBZ;2018-11-02; 14:25;
+Ryanair;FR 3069;2;En Ruta - Retrasado;2018-11-02;15:25;15:41;Kiev/Kyiv;KBP;2018-11-02; 12:45;12:45
+Norwegian Air International;D8 5757;2;En Ruta - Puntual;2018-11-02;15:30;15:18;Tenerife;TFN;2018-11-02; 11:10;11:04
+Vueling;VY 6241;1;En Ruta - Puntual;2018-11-02;15:40;15:32;Basel, Switzerland / Mulhouse;BSL;2018-11-02; 14:05;13:53
+Iberia;IB 5547;1;En Ruta - Puntual;2018-11-02;15:40;15:32;Basel, Switzerland / Mulhouse;BSL;2018-11-02; 14:05;13:53
+Vueling;VY 1891;1;En Ruta - Puntual;2018-11-02;15:45;15:54;Hanover;HAJ;2018-11-02; 13:25;13:35
+Iberia;IB 5581;1;En Ruta - Puntual;2018-11-02;15:45;15:54;Hanover;HAJ;2018-11-02; 13:25;13:35
+Vueling;VY 6339;1;En Ruta - Retrasado;2018-11-02;15:45;16:04;Milan;MXP;2018-11-02; 14:10;14:25
+Iberia;IB 5441;1;En Ruta - Retrasado;2018-11-02;15:45;16:04;Milan;MXP;2018-11-02; 14:10;14:25
+Vueling;VY 8539;1;En Ruta - Puntual;2018-11-02;15:45;15:53;Oslo;OSL;2018-11-02; 12:30;12:45
+Iberia;IB 5751;1;En Ruta - Puntual;2018-11-02;15:45;15:53;Oslo;OSL;2018-11-02; 12:30;12:45
+Ryanair;FR 6579;2;En Ruta - Puntual;2018-11-02;15:45;15:55;Palma Mallorca;PMI;2018-11-02; 14:50;
+Alitalia;AZ 76;1;En Ruta;2018-11-02;15:50;15:50;Rome;FCO;2018-11-02; 14:00;14:29
+Etihad Airways;EY 2824;1;En Ruta;2018-11-02;15:50;15:50;Rome;FCO;2018-11-02; 14:00;14:29
+Hainan Airlines;HU 8663;1;En Ruta;2018-11-02;15:50;15:50;Rome;FCO;2018-11-02; 14:00;14:29
+Air Serbia;JU 9343;1;En Ruta;2018-11-02;15:50;15:50;Rome;FCO;2018-11-02; 14:00;14:29
+Middle East Airlines;ME 2076;1;En Ruta;2018-11-02;15:50;15:50;Rome;FCO;2018-11-02; 14:00;14:29
+Aeroflot;SU 4181;1;En Ruta;2018-11-02;15:50;15:50;Rome;FCO;2018-11-02; 14:00;14:29
+Saudia;SV 6239;1;En Ruta;2018-11-02;15:50;15:50;Rome;FCO;2018-11-02; 14:00;14:29
+Air Europa;UX 3127;1;En Ruta;2018-11-02;15:50;15:50;Rome;FCO;2018-11-02; 14:00;14:29
+Ryanair;FR 132;2;En Ruta - Puntual;2018-11-02;15:50;15:44;Berlin;SXF;2018-11-02; 13:15;13:11
+Aegean Airlines;A3 712;1;En Ruta - Puntual;2018-11-02;15:55;15:53;Athens;ATH;2018-11-02; 13:40;13:58
+TAP Portugal;TP 7432;1;En Ruta - Puntual;2018-11-02;15:55;15:53;Athens;ATH;2018-11-02; 13:40;13:58
+easyJet;U2 7201;2;En Ruta - Puntual;2018-11-02;15:55;15:24;Liverpool;LPL;2018-11-02; 12:35;12:29
+Vueling;VY 8753;1;En Ruta - Puntual;2018-11-02;16:00;15:56;Birmingham;BHX;2018-11-02; 12:55;13:03
+Iberia;IB 5827;1;En Ruta - Puntual;2018-11-02;16:00;15:56;Birmingham;BHX;2018-11-02; 12:55;13:03
+Ryanair;FR 3977;2;En Ruta - Puntual;2018-11-02;16:00;16:10;Dublin;DUB;2018-11-02; 12:30;12:32
+Ryanair;FR 9044;2;En Ruta - Retrasado;2018-11-02;16:00;16:37;London;STN;2018-11-02; 12:45;13:10
+Vueling;VY 2124;1;En Ruta - Puntual;2018-11-02;16:05;16:10;Malaga;AGP;2018-11-02; 14:30;14:29
+Iberia;IB 5090;1;En Ruta - Puntual;2018-11-02;16:05;16:10;Malaga;AGP;2018-11-02; 14:30;14:29
+Qatar Airways;QR 3517;1;En Ruta - Puntual;2018-11-02;16:05;16:10;Malaga;AGP;2018-11-02; 14:30;14:29
+easyJet;U2 1079;2;En Ruta - Puntual;2018-11-02;16:10;16:19;Basel, Switzerland / Mulhouse;BSL;2018-11-02; 14:30;14:39
+Vueling;VY 6105;1;En Ruta - Puntual;2018-11-02;16:10;16:05;Rome;FCO;2018-11-02; 14:25;14:30
+Iberia;IB 5223;1;En Ruta - Puntual;2018-11-02;16:10;16:05;Rome;FCO;2018-11-02; 14:25;14:30
+Aeroflot;SU 2514;1;En Ruta - Puntual;2018-11-02;16:10;16:10;Moscow;SVO;2018-11-02; 13:25;13:24
+Air Europa;UX 3245;1;En Ruta - Puntual;2018-11-02;16:10;16:10;Moscow;SVO;2018-11-02; 13:25;13:24
+Vueling;VY 8549;1;En Ruta - Retrasado;2018-11-02;16:15;16:55;Helsinki;HEL;2018-11-02; 13:20;14:01
+Iberia;IB 5693;1;En Ruta - Retrasado;2018-11-02;16:15;16:55;Helsinki;HEL;2018-11-02; 13:20;14:01
+Vueling;VY 1500;1;En Ruta - Puntual;2018-11-02;16:15;16:18;Madrid;MAD;2018-11-02; 15:00;14:59
+Iberia;IB 5002;1;En Ruta - Puntual;2018-11-02;16:15;16:18;Madrid;MAD;2018-11-02; 15:00;14:59
+easyJet;U2 2765;2;En Ruta - Puntual;2018-11-02;16:15;16:19;Milan;MXP;2018-11-02; 14:45;14:49
+Air Europa;UX 2006;1;Programado - Puntual;2018-11-02;16:20;16:20;Madrid;MAD;2018-11-02; 15:00;
+Aeromexico;AM 6808;1;Programado - Puntual;2018-11-02;16:20;16:20;Madrid;MAD;2018-11-02; 15:00;
+Delta Air Lines;DL 6771;1;Programado - Puntual;2018-11-02;16:20;16:20;Madrid;MAD;2018-11-02; 15:00;
+Ethiopian Airlines;ET 1163;1;Programado - Puntual;2018-11-02;16:20;16:20;Madrid;MAD;2018-11-02; 15:00;
+Etihad Airways;EY 4366;1;Programado - Puntual;2018-11-02;16:20;16:20;Madrid;MAD;2018-11-02; 15:00;
+Garuda Indonesia;GA 9776;1;Programado - Puntual;2018-11-02;16:20;16:20;Madrid;MAD;2018-11-02; 15:00;
+Korean Air;KE 6651;1;Programado - Puntual;2018-11-02;16:20;16:20;Madrid;MAD;2018-11-02; 15:00;
+Middle East Airlines;ME 2006;1;Programado - Puntual;2018-11-02;16:20;16:20;Madrid;MAD;2018-11-02; 15:00;
+Aeroflot;SU 3645;1;Programado - Puntual;2018-11-02;16:20;16:20;Madrid;MAD;2018-11-02; 15:00;
+Saudia;SV 6184;1;Programado - Puntual;2018-11-02;16:20;16:20;Madrid;MAD;2018-11-02; 15:00;
+easyJet;U2 1407;2;En Ruta;2018-11-02;16:25;16:25;Geneva;GVA;2018-11-02; 15:00;14:59
+British Airways;BA 480;1;En Ruta - Puntual;2018-11-02;16:30;16:13;London;LHR;2018-11-02; 13:20;
+American Airlines;AA 6292;1;En Ruta - Puntual;2018-11-02;16:30;16:13;London;LHR;2018-11-02; 13:20;
+Iberia;IB 7481;1;En Ruta - Puntual;2018-11-02;16:30;16:13;London;LHR;2018-11-02; 13:20;
+Vueling;VY 3973;1;Programado - Puntual;2018-11-02;16:30;16:30;Palma Mallorca;PMI;2018-11-02; 15:40;
+Iberia;IB 5423;1;Programado - Puntual;2018-11-02;16:30;16:30;Palma Mallorca;PMI;2018-11-02; 15:40;
+Qatar Airways;QR 3770;1;Programado - Puntual;2018-11-02;16:30;16:30;Palma Mallorca;PMI;2018-11-02; 15:40;
+Tunisair;TU 514;1;Programado - Retrasado;2018-11-02;16:30;17:10;Tunis;TUN;2018-11-02; 14:45;
+Vueling;VY 8711;1;En Ruta - Retrasado;2018-11-02;16:30;16:45;Vienna;VIE;2018-11-02; 14:10;14:25
+Iberia;IB 5325;1;En Ruta - Retrasado;2018-11-02;16:30;16:45;Vienna;VIE;2018-11-02; 14:10;14:25
+Vueling;VY 2287;1;En Ruta - Puntual;2018-11-02;16:30;16:36;Jerez De La Frontera;XRY;2018-11-02; 14:50;14:38
+Iberia;IB 5097;1;En Ruta - Puntual;2018-11-02;16:30;16:36;Jerez De La Frontera;XRY;2018-11-02; 14:50;14:38
+Qatar Airways;QR 3505;1;En Ruta - Puntual;2018-11-02;16:30;16:36;Jerez De La Frontera;XRY;2018-11-02; 14:50;14:38
+KLM;KL 1673;1;En Ruta - Puntual;2018-11-02;16:35;16:23;Amsterdam;AMS;2018-11-02; 14:25;14:26
+Jet Airways (India);9W 8898;1;En Ruta - Puntual;2018-11-02;16:35;16:23;Amsterdam;AMS;2018-11-02; 14:25;14:26
+China Airlines;CI 9393;1;En Ruta - Puntual;2018-11-02;16:35;16:23;Amsterdam;AMS;2018-11-02; 14:25;14:26
+Delta Air Lines;DL 9603;1;En Ruta - Puntual;2018-11-02;16:35;16:23;Amsterdam;AMS;2018-11-02; 14:25;14:26
+Gol;G3 8583;1;En Ruta - Puntual;2018-11-02;16:35;16:23;Amsterdam;AMS;2018-11-02; 14:25;14:26
+Garuda Indonesia;GA 9246;1;En Ruta - Puntual;2018-11-02;16:35;16:23;Amsterdam;AMS;2018-11-02; 14:25;14:26
+Xiamen Airlines;MF 9705;1;En Ruta - Puntual;2018-11-02;16:35;16:23;Amsterdam;AMS;2018-11-02; 14:25;14:26
+Vueling;VY 8745;1;En Ruta - Puntual;2018-11-02;16:40;16:45;Malta;MLA;2018-11-02; 14:25;14:40
+Iberia;IB 5639;1;En Ruta - Puntual;2018-11-02;16:40;16:45;Malta;MLA;2018-11-02; 14:25;14:40
+Qatar Airways;QR 3687;1;En Ruta - Puntual;2018-11-02;16:40;16:45;Malta;MLA;2018-11-02; 14:25;14:40
+Vueling;VY 2470;1;En Ruta - Puntual;2018-11-02;16:40;16:39;Nuremberg;NUE;2018-11-02; 14:40;14:40
+Iberia;IB 5814;1;En Ruta - Puntual;2018-11-02;16:40;16:39;Nuremberg;NUE;2018-11-02; 14:40;14:40
+Ryanair;FR 2835;2;Programado - Retrasado;2018-11-02;16:45;17:05;Brussels;CRL;2018-11-02; 14:40;
+Vueling;VY 1867;1;En Ruta - Puntual;2018-11-02;16:50;16:46;Stuttgart;STR;2018-11-02; 15:00;14:56
+Iberia;IB 5067;1;En Ruta - Puntual;2018-11-02;16:50;16:46;Stuttgart;STR;2018-11-02; 15:00;14:56
+Transavia;HV 5133;2;En Ruta;2018-11-02;16:55;16:55;Amsterdam;AMS;2018-11-02; 14:40;
+Delta Air Lines;DL 7508;2;En Ruta;2018-11-02;16:55;16:55;Amsterdam;AMS;2018-11-02; 14:40;
+Eurowings;EW 526;2;En Ruta - Puntual;2018-11-02;16:55;16:33;Cologne;CGN;2018-11-02; 14:45;14:47
+Vueling;VY 8101;1;En Ruta - Retrasado;2018-11-02;17:00;17:38;Athens;ATH;2018-11-02; 14:55;15:48
+Iberia;IB 5283;1;En Ruta - Retrasado;2018-11-02;17:00;17:38;Athens;ATH;2018-11-02; 14:55;15:48
+Vueling;VY 1435;1;Programado - Retrasado;2018-11-02;17:00;17:38;Bilbao;BIO;2018-11-02; 15:50;
+Iberia;IB 5393;1;Programado - Retrasado;2018-11-02;17:00;17:38;Bilbao;BIO;2018-11-02; 15:50;
+Qatar Airways;QR 3555;1;Programado - Retrasado;2018-11-02;17:00;17:38;Bilbao;BIO;2018-11-02; 15:50;
+Joon;JN 1548;1;Programado;2018-11-02;17:00;17:00;Paris;CDG;2018-11-02; 15:20;
+Aeromexico;AM 6012;1;Programado;2018-11-02;17:00;17:00;Paris;CDG;2018-11-02; 15:20;
+Delta Air Lines;DL 8557;1;Programado;2018-11-02;17:00;17:00;Paris;CDG;2018-11-02; 15:20;
+Gol;G3 8575;1;Programado;2018-11-02;17:00;17:00;Paris;CDG;2018-11-02; 15:20;
+Atlasglobal;KK 7458;1;Programado;2018-11-02;17:00;17:00;Paris;CDG;2018-11-02; 15:20;
+Air Mauritius;MK 9324;1;Programado;2018-11-02;17:00;17:00;Paris;CDG;2018-11-02; 15:20;
+Air Europa;UX 3948;1;Programado;2018-11-02;17:00;17:00;Paris;CDG;2018-11-02; 15:20;
+Air France;AF 1548;1;Programado;2018-11-02;17:00;17:00;Paris;CDG;2018-11-02; 15:20;
+TAP Portugal;TP 1044;1;Programado - Puntual;2018-11-02;17:00;17:00;Lisbon;LIS;2018-11-02; 14:10;
+Azul;AD 7293;1;Programado - Puntual;2018-11-02;17:00;17:00;Lisbon;LIS;2018-11-02; 14:10;
+Azores Airlines;S4 8714;1;Programado - Puntual;2018-11-02;17:00;17:00;Lisbon;LIS;2018-11-02; 14:10;
+Singapore Airlines;SQ 2794;1;Programado - Puntual;2018-11-02;17:00;17:00;Lisbon;LIS;2018-11-02; 14:10;
+Iberia;IB 1546;1;Programado;2018-11-02;17:00;17:00;Madrid;MAD;2018-11-02; 15:45;
+Ryanair;FR 3040;2;En Ruta - Puntual;2018-11-02;17:00;17:00;Prague;PRG;2018-11-02; 14:35;14:40
+Vueling;VY 6601;1;Programado - Puntual;2018-11-02;17:05;17:10;Palermo;PMO;2018-11-02; 15:10;
+Iberia;IB 5793;1;Programado - Puntual;2018-11-02;17:05;17:10;Palermo;PMO;2018-11-02; 15:10;
+Qatar Airways;QR 3772;1;Programado - Puntual;2018-11-02;17:05;17:10;Palermo;PMO;2018-11-02; 15:10;
+Norwegian Air International;D8 5671;2;Programado - Retrasado;2018-11-02;17:05;18:40;Tel Aviv-Yafo;TLV;2018-11-02; 13:15;
+Vueling;VY 2221;1;Programado - Puntual;2018-11-02;17:10;17:23;Sevilla;SVQ;2018-11-02; 15:35;
+Iberia;IB 5731;1;Programado - Puntual;2018-11-02;17:10;17:23;Sevilla;SVQ;2018-11-02; 15:35;
+Qatar Airways;QR 3609;1;Programado - Puntual;2018-11-02;17:10;17:23;Sevilla;SVQ;2018-11-02; 15:35;
+Royal Air Maroc;AT 960;1;Programado - Puntual;2018-11-02;17:15;17:15;Casablanca;CMN;2018-11-02; 15:10;
+Turkish Airlines;TK 1855;1;En Ruta - Puntual;2018-11-02;17:15;17:08;Istanbul;IST;2018-11-02; 15:25;15:21
+Vueling;VY 1883;1;En Ruta - Puntual;2018-11-02;17:15;17:25;Berlin;TXL;2018-11-02; 14:45;14:49
+Iberia;IB 5081;1;En Ruta - Puntual;2018-11-02;17:15;17:25;Berlin;TXL;2018-11-02; 14:45;14:49
+Vueling;VY 1821;1;En Ruta - Puntual;2018-11-02;17:20;17:06;Hamburg;HAM;2018-11-02; 14:50;14:47
+Iberia;IB 5065;1;En Ruta - Puntual;2018-11-02;17:20;17:06;Hamburg;HAM;2018-11-02; 14:50;14:47
+easyJet;U2 3919;2;Programado - Puntual;2018-11-02;17:25;17:26;Paris;CDG;2018-11-02; 15:45;
+Vueling;VY 3015;1;En Ruta - Puntual;2018-11-02;17:25;17:37;Puerto del Rosario;FUE;2018-11-02; 13:20;13:20
+Iberia;IB 5789;1;En Ruta - Puntual;2018-11-02;17:25;17:37;Puerto del Rosario;FUE;2018-11-02; 13:20;13:20
+Qatar Airways;QR 3589;1;En Ruta - Puntual;2018-11-02;17:25;17:37;Puerto del Rosario;FUE;2018-11-02; 13:20;13:20
+easyJet;U2 8575;2;Programado - Retrasado;2018-11-02;17:25;17:41;London;LGW;2018-11-02; 14:20;
+Ryanair;FR 6304;2;Programado - Puntual;2018-11-02;17:30;17:30;Milan;BGY;2018-11-02; 15:50;
+Vueling;VY 8993;1;Programado - Puntual;2018-11-02;17:30;17:35;Brussels;BRU;2018-11-02; 15:30;
+Iberia;IB 5579;1;Programado - Puntual;2018-11-02;17:30;17:35;Brussels;BRU;2018-11-02; 15:30;
+Vueling;VY 8749;1;Programado - Retrasado;2018-11-02;17:35;18:04;Manchester;MAN;2018-11-02; 14:20;
+Iberia;IB 5329;1;Programado - Retrasado;2018-11-02;17:35;18:04;Manchester;MAN;2018-11-02; 14:20;
+Air Europa;UX 6072;1;Programado;2018-11-02;17:35;17:35;Palma Mallorca;PMI;2018-11-02; 16:45;
+Air France;AF 4835;1;Programado;2018-11-02;17:35;17:35;Palma Mallorca;PMI;2018-11-02; 16:45;
+Alitalia;AZ 2415;1;Programado;2018-11-02;17:35;17:35;Palma Mallorca;PMI;2018-11-02; 16:45;
+KLM;KL 3334;1;Programado;2018-11-02;17:35;17:35;Palma Mallorca;PMI;2018-11-02; 16:45;
+Air Nostrum;YW 8371;1;Programado;2018-11-02;17:35;17:35;Burgos;RGS;2018-11-02; 16:25;
+American Airlines;AA 8570;1;Programado;2018-11-02;17:35;17:35;Burgos;RGS;2018-11-02; 16:25;
+Qatar Airways;QR 5083;1;Programado;2018-11-02;17:35;17:35;Burgos;RGS;2018-11-02; 16:25;
+Iberia;IB 8371;1;Programado;2018-11-02;17:35;17:35;Burgos;RGS;2018-11-02; 16:25;
+Vueling;VY 6515;1;Programado - Retrasado;2018-11-02;17:40;18:17;Turin;TRN;2018-11-02; 16:15;
+Iberia;IB 5407;1;Programado - Retrasado;2018-11-02;17:40;18:17;Turin;TRN;2018-11-02; 16:15;
+Qatar Airways;QR 3544;1;Programado - Retrasado;2018-11-02;17:40;18:17;Turin;TRN;2018-11-02; 16:15;
+Iberia;IB 1630;1;Programado;2018-11-02;17:45;17:45;Madrid;MAD;2018-11-02; 16:30;
+AVIANCA;AV 6089;1;Programado;2018-11-02;17:45;17:45;Madrid;MAD;2018-11-02; 16:30;
+LATAM Airlines;LA 7103;1;Programado;2018-11-02;17:45;17:45;Madrid;MAD;2018-11-02; 16:30;
+BoA;OB 5004;1;Programado;2018-11-02;17:45;17:45;Madrid;MAD;2018-11-02; 16:30;
+Lufthansa;LH 1814;1;Programado;2018-11-02;17:45;17:45;Munich;MUC;2018-11-02; 15:45;
+Etihad Airways;EY 4188;1;Programado;2018-11-02;17:45;17:45;Munich;MUC;2018-11-02; 15:45;
+SAS;SK 3336;1;Programado;2018-11-02;17:45;17:45;Munich;MUC;2018-11-02; 15:45;
+United Airlines;UA 9298;1;Programado;2018-11-02;17:45;17:45;Munich;MUC;2018-11-02; 15:45;
+Vueling;VY 7827;1;Programado - Puntual;2018-11-02;17:55;17:57;London;LGW;2018-11-02; 14:50;
+British Airways;BA 8065;1;Programado - Puntual;2018-11-02;17:55;17:57;London;LGW;2018-11-02; 14:50;
+Iberia;IB 5255;1;Programado - Puntual;2018-11-02;17:55;17:57;London;LGW;2018-11-02; 14:50;
+Vueling;VY 1899;1;Programado - Puntual;2018-11-02;18:00;17:50;Dusseldorf;DUS;2018-11-02; 15:50;
+Iberia;IB 5073;1;Programado - Puntual;2018-11-02;18:00;17:50;Dusseldorf;DUS;2018-11-02; 15:50;
+Air Algerie;AH 2014;1;Programado;2018-11-02;18:05;18:05;Algiers;ALG;2018-11-02; 16:45;
+easyJet;U2 4132;2;Programado;2018-11-02;18:05;18:05;Bordeaux;BOD;2018-11-02; 16:50;
+Lufthansa;LH 1132;1;Programado;2018-11-02;18:05;18:05;Frankfurt;FRA;2018-11-02; 16:05;
+Etihad Airways;EY 4174;1;Programado;2018-11-02;18:05;18:05;Frankfurt;FRA;2018-11-02; 16:05;
+SAS;SK 3369;1;Programado;2018-11-02;18:05;18:05;Frankfurt;FRA;2018-11-02; 16:05;
+United Airlines;UA 9515;1;Programado;2018-11-02;18:05;18:05;Frankfurt;FRA;2018-11-02; 16:05;
+Vueling;VY 8467;1;Programado - Puntual;2018-11-02;18:05;18:09;Lisbon;LIS;2018-11-02; 15:10;
+Iberia;IB 5363;1;Programado - Puntual;2018-11-02;18:05;18:09;Lisbon;LIS;2018-11-02; 15:10;
+Vueling;VY 1815;1;Programado - Puntual;2018-11-02;18:05;17:59;Munich;MUC;2018-11-02; 15:55;
+Iberia;IB 5061;1;Programado - Puntual;2018-11-02;18:05;17:59;Munich;MUC;2018-11-02; 15:55;
+Wizz Air;W6 6417;2;En Ruta;2018-11-02;18:10;18:10;Kutaisi;KUT;2018-11-02; 16:10;
+British Airways;BA 470;1;Programado - Puntual;2018-11-02;18:15;18:15;London;LHR;2018-11-02; 15:05;
+American Airlines;AA 6686;1;Programado - Puntual;2018-11-02;18:15;18:15;London;LHR;2018-11-02; 15:05;
+Iberia;IB 7472;1;Programado - Puntual;2018-11-02;18:15;18:15;London;LHR;2018-11-02; 15:05;
+Vueling;VY 1700;1;Programado - Puntual;2018-11-02;18:15;18:19;Madrid;MAD;2018-11-02; 17:00;
+Iberia;IB 5004;1;Programado - Puntual;2018-11-02;18:15;18:19;Madrid;MAD;2018-11-02; 17:00;
+Vueling;VY 3913;1;Programado - Puntual;2018-11-02;18:20;18:24;Palma Mallorca;PMI;2018-11-02; 17:30;
+Iberia;IB 5157;1;Programado - Puntual;2018-11-02;18:20;18:24;Palma Mallorca;PMI;2018-11-02; 17:30;
+Qatar Airways;QR 3669;1;Programado - Puntual;2018-11-02;18:20;18:24;Palma Mallorca;PMI;2018-11-02; 17:30;
+Ryanair;FR 7060;2;Programado - Puntual;2018-11-02;18:25;18:25;Rome;FCO;2018-11-02; 16:30;
+easyJet;U2 1409;2;Programado;2018-11-02;18:25;18:25;Geneva;GVA;2018-11-02; 17:00;
+Vueling;VY 8019;1;Programado - Puntual;2018-11-02;18:25;18:19;Paris;ORY;2018-11-02; 16:50;
+Iberia;IB 5273;1;Programado - Puntual;2018-11-02;18:25;18:19;Paris;ORY;2018-11-02; 16:50;
+Vueling;VY 6405;1;Programado - Puntual;2018-11-02;18:25;18:36;Venice;VCE;2018-11-02; 16:35;
+Iberia;IB 5233;1;Programado - Puntual;2018-11-02;18:25;18:36;Venice;VCE;2018-11-02; 16:35;
+Korean Air;KE 915;1;En Ruta - Puntual;2018-11-02;18:30;18:43;Seoul;ICN;2018-11-02; 13:35;13:53
+Ryanair;FR 246;2;Programado - Puntual;2018-11-02;18:30;18:30;Vigo;VGO;2018-11-02; 16:45;
+Vueling;VY 6523;1;Programado - Puntual;2018-11-02;18:35;18:35;Bologna;BLQ;2018-11-02; 16:55;
+Iberia;IB 5239;1;Programado - Puntual;2018-11-02;18:35;18:35;Bologna;BLQ;2018-11-02; 16:55;
+Qatar Airways;QR 3563;1;Programado - Puntual;2018-11-02;18:35;18:35;Bologna;BLQ;2018-11-02; 16:55;
+Joon;JN 1048;1;Programado;2018-11-02;18:35;18:35;Paris;CDG;2018-11-02; 16:55;
+Delta Air Lines;DL 8281;1;Programado;2018-11-02;18:35;18:35;Paris;CDG;2018-11-02; 16:55;
+Gol;G3 5233;1;Programado;2018-11-02;18:35;18:35;Paris;CDG;2018-11-02; 16:55;
+Korean Air;KE 6343;1;Programado;2018-11-02;18:35;18:35;Paris;CDG;2018-11-02; 16:55;
+Atlasglobal;KK 7459;1;Programado;2018-11-02;18:35;18:35;Paris;CDG;2018-11-02; 16:55;
+Kenya Airways;KQ 3156;1;Programado;2018-11-02;18:35;18:35;Paris;CDG;2018-11-02; 16:55;
+Air Europa;UX 3048;1;Programado;2018-11-02;18:35;18:35;Paris;CDG;2018-11-02; 16:55;
+Air France;AF 1048;1;Programado;2018-11-02;18:35;18:35;Paris;CDG;2018-11-02; 16:55;
+SWISS;LX 1946;1;Programado;2018-11-02;18:35;18:35;Geneva;GVA;2018-11-02; 17:10;
+Ryanair;FR 8842;2;Programado - Puntual;2018-11-02;18:35;18:35;Ibiza;IBZ;2018-11-02; 17:40;
+Vueling;VY 6335;1;Programado - Puntual;2018-11-02;18:35;18:36;Milan;MXP;2018-11-02; 17:00;
+Iberia;IB 5227;1;Programado - Puntual;2018-11-02;18:35;18:36;Milan;MXP;2018-11-02; 17:00;
+Vueling;VY 1313;1;Programado - Retrasado;2018-11-02;18:40;18:56;Alicante;ALC;2018-11-02; 17:30;
+Iberia;IB 5781;1;Programado - Retrasado;2018-11-02;18:40;18:56;Alicante;ALC;2018-11-02; 17:30;
+Qatar Airways;QR 3533;1;Programado - Retrasado;2018-11-02;18:40;18:56;Alicante;ALC;2018-11-02; 17:30;
+Vueling;VY 8721;1;Programado - Retrasado;2018-11-02;18:40;19:01;Dublin;DUB;2018-11-02; 15:20;
+Iberia;IB 5327;1;Programado - Retrasado;2018-11-02;18:40;19:01;Dublin;DUB;2018-11-02; 15:20;
+Eurowings;EW 9442;2;Programado;2018-11-02;18:45;18:45;Dusseldorf;DUS;2018-11-02; 16:35;
+Lufthansa;LH 5351;2;Programado;2018-11-02;18:45;18:45;Dusseldorf;DUS;2018-11-02; 16:35;
+ANA;NH 5109;2;Programado;2018-11-02;18:45;18:45;Dusseldorf;DUS;2018-11-02; 16:35;
+Iberia;IB 1730;1;Programado;2018-11-02;18:45;18:45;Madrid;MAD;2018-11-02; 17:30;
+AVIANCA;AV 6148;1;Programado;2018-11-02;18:45;18:45;Madrid;MAD;2018-11-02; 17:30;
+LATAM Airlines;LA 7077;1;Programado;2018-11-02;18:45;18:45;Madrid;MAD;2018-11-02; 17:30;
+Vueling;VY 1427;1;Programado - Puntual;2018-11-02;18:50;18:49;Bilbao;BIO;2018-11-02; 17:40;
+Iberia;IB 5479;1;Programado - Puntual;2018-11-02;18:50;18:49;Bilbao;BIO;2018-11-02; 17:40;
+Qatar Airways;QR 3547;1;Programado - Puntual;2018-11-02;18:50;18:49;Bilbao;BIO;2018-11-02; 17:40;
+Ryanair;FR 9146;2;Programado - Puntual;2018-11-02;18:50;18:50;Liverpool;LPL;2018-11-02; 15:30;
+Vueling;VY 1315;1;Programado - Puntual;2018-11-02;19:00;19:11;Valencia;VLC;2018-11-02; 18:00;
+Iberia;IB 5179;1;Programado - Puntual;2018-11-02;19:00;19:11;Valencia;VLC;2018-11-02; 18:00;
+Qatar Airways;QR 3707;1;Programado - Puntual;2018-11-02;19:00;19:11;Valencia;VLC;2018-11-02; 18:00;
+KLM;KL 1675;1;Programado - Puntual;2018-11-02;19:05;19:05;Amsterdam;AMS;2018-11-02; 16:55;
+China Southern Airlines;CZ 7982;1;Programado - Puntual;2018-11-02;19:05;19:05;Amsterdam;AMS;2018-11-02; 16:55;
+Delta Air Lines;DL 9604;1;Programado - Puntual;2018-11-02;19:05;19:05;Amsterdam;AMS;2018-11-02; 16:55;
+Etihad Airways;EY 7355;1;Programado - Puntual;2018-11-02;19:05;19:05;Amsterdam;AMS;2018-11-02; 16:55;
+Gol;G3 8588;1;Programado - Puntual;2018-11-02;19:05;19:05;Amsterdam;AMS;2018-11-02; 16:55;
+Garuda Indonesia;GA 9250;1;Programado - Puntual;2018-11-02;19:05;19:05;Amsterdam;AMS;2018-11-02; 16:55;
+Kenya Airways;KQ 1675;1;Programado - Puntual;2018-11-02;19:05;19:05;Amsterdam;AMS;2018-11-02; 16:55;
+Lufthansa;LH 1134;1;Programado;2018-11-02;19:05;19:05;Frankfurt;FRA;2018-11-02; 17:05;
+ANA;NH 5449;1;Programado;2018-11-02;19:05;19:05;Frankfurt;FRA;2018-11-02; 17:05;
+easyJet;U2 8577;2;Programado;2018-11-02;19:05;19:05;London;LGW;2018-11-02; 16:00;
+Ryanair;FR 9014;2;Programado - Puntual;2018-11-02;19:05;19:05;London;STN;2018-11-02; 15:50;
+Ryanair;FR 1284;2;Programado - Puntual;2018-11-02;19:05;19:05;Jerez De La Frontera;XRY;2018-11-02; 17:20;
+Vueling;VY 2122;1;Programado - Puntual;2018-11-02;19:10;19:10;Malaga;AGP;2018-11-02; 17:35;
+Iberia;IB 5272;1;Programado - Puntual;2018-11-02;19:10;19:10;Malaga;AGP;2018-11-02; 17:35;
+Qatar Airways;QR 3515;1;Programado - Puntual;2018-11-02;19:10;19:10;Malaga;AGP;2018-11-02; 17:35;
+Vueling;VY 1591;1;Programado - Puntual;2018-11-02;19:10;19:12;Santander;SDR;2018-11-02; 18:00;
+Iberia;IB 5107;1;Programado - Puntual;2018-11-02;19:10;19:12;Santander;SDR;2018-11-02; 18:00;
+Qatar Airways;QR 3625;1;Programado - Puntual;2018-11-02;19:10;19:12;Santander;SDR;2018-11-02; 18:00;
+Germanwings;4U 2520;2;Programado;2018-11-02;19:10;19:10;Stuttgart;STR;2018-11-02; 17:25;
+Eurowings;EW 2520;2;Programado;2018-11-02;19:10;19:10;Stuttgart;STR;2018-11-02; 17:25;
+SWISS;LX 1956;1;Programado;2018-11-02;19:10;19:10;Zurich;ZRH;2018-11-02; 17:25;
+Eurowings Europe;E2 5922;2;Programado;2018-11-02;19:15;19:15;Vienna;VIE;2018-11-02; 16:45;
+Austrian;OS 8849;2;Programado;2018-11-02;19:15;19:15;Vienna;VIE;2018-11-02; 16:45;
+Eurowings;EW 5922;2;Programado;2018-11-02;19:15;19:15;Vienna;VIE;2018-11-02; 16:45;
+Vueling;VY 6115;1;Programado - Puntual;2018-11-02;19:20;19:20;Rome;FCO;2018-11-02; 17:35;
+Iberia;IB 5425;1;Programado - Puntual;2018-11-02;19:20;19:20;Rome;FCO;2018-11-02; 17:35;
+Qatar Airways;QR 3727;1;Programado - Puntual;2018-11-02;19:20;19:20;Rome;FCO;2018-11-02; 17:35;
+Vueling;VY 3909;1;Programado - Puntual;2018-11-02;19:20;19:24;Palma Mallorca;PMI;2018-11-02; 18:30;
+Iberia;IB 5153;1;Programado - Puntual;2018-11-02;19:20;19:24;Palma Mallorca;PMI;2018-11-02; 18:30;
+Qatar Airways;QR 3676;1;Programado - Puntual;2018-11-02;19:20;19:24;Palma Mallorca;PMI;2018-11-02; 18:30;
+Ryanair;FR 2938;2;Programado - Puntual;2018-11-02;19:25;19:25;Brussels;BRU;2018-11-02; 17:25;
+Vueling;VY 1295;1;Programado - Puntual;2018-11-02;19:25;19:36;La Coruna;LCG;2018-11-02; 17:45;
+Iberia;IB 5719;1;Programado - Puntual;2018-11-02;19:25;19:36;La Coruna;LCG;2018-11-02; 17:45;
+Qatar Airways;QR 3639;1;Programado - Puntual;2018-11-02;19:25;19:36;La Coruna;LCG;2018-11-02; 17:45;
+Ryanair;FR 6321;2;Programado - Puntual;2018-11-02;19:25;19:25;Valladolid;VLL;2018-11-02; 18:05;
+Vueling;VY 2473;1;Programado - Puntual;2018-11-02;19:30;19:43;Lanzarote;ACE;2018-11-02; 15:30;
+Iberia;IB 5099;1;Programado - Puntual;2018-11-02;19:30;19:43;Lanzarote;ACE;2018-11-02; 15:30;
+Qatar Airways;QR 3501;1;Programado - Puntual;2018-11-02;19:30;19:43;Lanzarote;ACE;2018-11-02; 15:30;
+Air France;AF 1248;1;Programado;2018-11-02;19:30;19:30;Paris;CDG;2018-11-02; 17:50;
+Aeromexico;AM 6030;1;Programado;2018-11-02;19:30;19:30;Paris;CDG;2018-11-02; 17:50;
+Gol;G3 5235;1;Programado;2018-11-02;19:30;19:30;Paris;CDG;2018-11-02; 17:50;
+JAL;JL 5317;1;Programado;2018-11-02;19:30;19:30;Paris;CDG;2018-11-02; 17:50;
+Atlasglobal;KK 7460;1;Programado;2018-11-02;19:30;19:30;Paris;CDG;2018-11-02; 17:50;
+Kenya Airways;KQ 3206;1;Programado;2018-11-02;19:30;19:30;Paris;CDG;2018-11-02; 17:50;
+Air Europa;UX 3478;1;Programado;2018-11-02;19:30;19:30;Paris;CDG;2018-11-02; 17:50;
+British Airways;BA 2708;1;Programado - Puntual;2018-11-02;19:30;19:30;London;LGW;2018-11-02; 16:30;
+Iberia;IB 7641;1;Programado - Puntual;2018-11-02;19:30;19:30;London;LGW;2018-11-02; 16:30;
+Vueling;VY 1816;1;Programado - Puntual;2018-11-02;19:30;19:34;Madrid;MAD;2018-11-02; 18:15;
+Iberia;IB 5006;1;Programado - Puntual;2018-11-02;19:30;19:34;Madrid;MAD;2018-11-02; 18:15;
+easyJet;U2 4535;2;Programado;2018-11-02;19:30;19:30;Berlin;SXF;2018-11-02; 17:00;
+Vueling;VY 2489;1;Programado - Retrasado;2018-11-02;19:35;19:55;San Sebastian;EAS;2018-11-02; 18:30;
+Iberia;IB 5399;1;Programado - Retrasado;2018-11-02;19:35;19:55;San Sebastian;EAS;2018-11-02; 18:30;
+Qatar Airways;QR 3581;1;Programado - Retrasado;2018-11-02;19:35;19:55;San Sebastian;EAS;2018-11-02; 18:30;
+Vueling;VY 3517;1;Programado - Puntual;2018-11-02;19:35;19:41;Ibiza;IBZ;2018-11-02; 18:40;
+Iberia;IB 5131;1;Programado - Puntual;2018-11-02;19:35;19:41;Ibiza;IBZ;2018-11-02; 18:40;
+Qatar Airways;QR 3611;1;Programado - Puntual;2018-11-02;19:35;19:41;Ibiza;IBZ;2018-11-02; 18:40;
+Vueling;VY 3709;1;Programado - Puntual;2018-11-02;19:35;19:37;Menorca;MAH;2018-11-02; 18:45;
+Iberia;IB 5137;1;Programado - Puntual;2018-11-02;19:35;19:37;Menorca;MAH;2018-11-02; 18:45;
+Qatar Airways;QR 3659;1;Programado - Puntual;2018-11-02;19:35;19:37;Menorca;MAH;2018-11-02; 18:45;
+Vueling;VY 3003;1;Programado - Retrasado;2018-11-02;19:40;20:00;Las Palmas;LPA;2018-11-02; 15:20;
+Iberia;IB 5109;1;Programado - Retrasado;2018-11-02;19:40;20:00;Las Palmas;LPA;2018-11-02; 15:20;
+Qatar Airways;QR 3651;1;Programado - Retrasado;2018-11-02;19:40;20:00;Las Palmas;LPA;2018-11-02; 15:20;
+Vueling;VY 3217;1;Programado - Retrasado;2018-11-02;19:40;20:01;Tenerife;TFN;2018-11-02; 15:20;
+Iberia;IB 5115;1;Programado - Retrasado;2018-11-02;19:40;20:01;Tenerife;TFN;2018-11-02; 15:20;
+Qatar Airways;QR 3559;1;Programado - Retrasado;2018-11-02;19:40;20:01;Tenerife;TFN;2018-11-02; 15:20;
+Anisec;VK 1000;1;Programado;2018-11-02;19:40;19:40;Vienna;VIE;2018-11-02; 17:05;
+Ryanair;FR 3038;2;Programado - Puntual;2018-11-02;19:55;19:55;Luxembourg;LUX;2018-11-02; 18:00;
+Vueling;VY 8029;1;Programado - Puntual;2018-11-02;19:55;20:01;Paris;ORY;2018-11-02; 18:20;
+Iberia;IB 5279;1;Programado - Puntual;2018-11-02;19:55;20:01;Paris;ORY;2018-11-02; 18:20;
+Vueling;VY 1266;1;Programado - Puntual;2018-11-02;20:00;19:56;Stockholm;ARN;2018-11-02; 16:25;
+Iberia;IB 5034;1;Programado - Puntual;2018-11-02;20:00;19:56;Stockholm;ARN;2018-11-02; 16:25;
+Vueling;VY 6202;1;Programado - Retrasado;2018-11-02;20:00;20:23;Geneva;GVA;2018-11-02; 18:30;
+Iberia;IB 5192;1;Programado - Retrasado;2018-11-02;20:00;20:23;Geneva;GVA;2018-11-02; 18:30;
+Iberia;IB 1846;1;Programado;2018-11-02;20:00;20:00;Madrid;MAD;2018-11-02; 18:45;
+LATAM Airlines;LA 7109;1;Programado;2018-11-02;20:00;20:00;Madrid;MAD;2018-11-02; 18:45;
+Ryanair;FR 7544;2;Programado - Puntual;2018-11-02;20:00;20:00;Manchester;MAN;2018-11-02; 16:40;
+Transavia France;TO 3138;2;Programado;2018-11-02;20:00;20:00;Paris;ORY;2018-11-02; 18:20;
+Laudamotion;OE 316;;Programado;2018-11-02;20:00;20:00;Vienna;VIE;2018-11-02; 17:45;
+Vueling;VY 1873;1;Programado - Puntual;2018-11-02;20:05;19:53;Copenhagen;CPH;2018-11-02; 17:15;
+Iberia;IB 5069;1;Programado - Puntual;2018-11-02;20:05;19:53;Copenhagen;CPH;2018-11-02; 17:15;
+Emirates;EK 187;1;En Ruta - Puntual;2018-11-02;20:10;19:40;Dubai;DXB;2018-11-02; 15:35;15:33
+Malaysia Airlines;MH 4511;1;En Ruta - Puntual;2018-11-02;20:10;19:40;Dubai;DXB;2018-11-02; 15:35;15:33
+Qantas;QF 8187;1;En Ruta - Puntual;2018-11-02;20:10;19:40;Dubai;DXB;2018-11-02; 15:35;15:33
+easyJet;U2 6029;2;Programado - Puntual;2018-11-02;20:15;20:17;Bristol;BRS;2018-11-02; 17:00;
+Aer Lingus;EI 564;2;Programado;2018-11-02;20:15;20:15;Dublin;DUB;2018-11-02; 16:50;
+British Airways;BA 8950;2;Programado;2018-11-02;20:15;20:15;Dublin;DUB;2018-11-02; 16:50;
+Etihad Airways;EY 7878;2;Programado;2018-11-02;20:15;20:15;Dublin;DUB;2018-11-02; 16:50;
+easyJet;U2 2267;2;Programado - Puntual;2018-11-02;20:15;20:15;London;LTN;2018-11-02; 17:05;
+Vueling;VY 1900;1;Programado - Puntual;2018-11-02;20:15;20:19;Madrid;MAD;2018-11-02; 19:00;
+Iberia;IB 5007;1;Programado - Puntual;2018-11-02;20:15;20:19;Madrid;MAD;2018-11-02; 19:00;
+Vueling;VY 2227;1;Programado - Puntual;2018-11-02;20:15;20:28;Sevilla;SVQ;2018-11-02; 18:40;
+Iberia;IB 5417;1;Programado - Puntual;2018-11-02;20:15;20:28;Sevilla;SVQ;2018-11-02; 18:40;
+Qatar Airways;QR 3729;1;Programado - Puntual;2018-11-02;20:15;20:28;Sevilla;SVQ;2018-11-02; 18:40;
+Finnair;AY 1653;1;Programado;2018-11-02;20:20;20:20;Helsinki;HEL;2018-11-02; 17:25;
+Iberia;IB 391;1;Programado;2018-11-02;20:20;20:20;Helsinki;HEL;2018-11-02; 17:25;
+JAL;JL 6855;1;Programado;2018-11-02;20:20;20:20;Helsinki;HEL;2018-11-02; 17:25;
+TAP Portugal;TP 1046;1;Programado - Puntual;2018-11-02;20:20;20:20;Lisbon;LIS;2018-11-02; 17:30;
+El Al;LY 9008;1;Programado - Puntual;2018-11-02;20:20;20:20;Lisbon;LIS;2018-11-02; 17:30;
+Azores Airlines;S4 8710;1;Programado - Puntual;2018-11-02;20:20;20:20;Lisbon;LIS;2018-11-02; 17:30;
+Qatar Airways;QR 141;1;En Ruta - Puntual;2018-11-02;20:25;19:57;Doha;DOH;2018-11-02; 15:20;15:18
+SriLankan Airlines;UL 3551;1;En Ruta - Puntual;2018-11-02;20:25;19:57;Doha;DOH;2018-11-02; 15:20;15:18
+Brussels Airlines;SN 3705;1;Programado;2018-11-02;20:30;20:30;Brussels;BRU;2018-11-02; 18:30;
+ANA;NH 5147;1;Programado;2018-11-02;20:30;20:30;Brussels;BRU;2018-11-02; 18:30;
+Vueling;VY 3911;1;Programado - Puntual;2018-11-02;20:30;20:33;Palma Mallorca;PMI;2018-11-02; 19:40;
+Iberia;IB 5155;1;Programado - Puntual;2018-11-02;20:30;20:33;Palma Mallorca;PMI;2018-11-02; 19:40;
+Qatar Airways;QR 3671;1;Programado - Puntual;2018-11-02;20:30;20:33;Palma Mallorca;PMI;2018-11-02; 19:40;
+Vueling;VY 6613;1;Programado - Puntual;2018-11-02;20:35;20:32;Bari;BRI;2018-11-02; 18:25;
+Iberia;IB 5525;1;Programado - Puntual;2018-11-02;20:35;20:32;Bari;BRI;2018-11-02; 18:25;
+Qatar Airways;QR 3565;1;Programado - Puntual;2018-11-02;20:35;20:32;Bari;BRI;2018-11-02; 18:25;
+easyJet;U2 6401;2;Programado - Puntual;2018-11-02;20:35;20:35;Newcastle;NCL;2018-11-02; 17:00;
+Transavia;HV 5135;2;Programado;2018-11-02;20:40;20:40;Amsterdam;AMS;2018-11-02; 18:25;
+Delta Air Lines;DL 7479;2;Programado;2018-11-02;20:40;20:40;Amsterdam;AMS;2018-11-02; 18:25;
+Ryanair;FR 6395;2;Programado - Puntual;2018-11-02;20:40;20:40;Dublin;DUB;2018-11-02; 17:10;
+Vueling;VY 2015;1;Programado - Puntual;2018-11-02;20:40;20:51;Granada;GRX;2018-11-02; 19:15;
+Iberia;IB 5083;1;Programado - Puntual;2018-11-02;20:40;20:51;Granada;GRX;2018-11-02; 19:15;
+Qatar Airways;QR 3597;1;Programado - Puntual;2018-11-02;20:40;20:51;Granada;GRX;2018-11-02; 19:15;
+easyJet;U2 1411;2;Programado;2018-11-02;20:45;20:45;Geneva;GVA;2018-11-02; 19:20;
+Ryanair;FR 6986;2;Programado - Puntual;2018-11-02;20:50;20:50;Rome;FCO;2018-11-02; 19:00;
+Swiftair;WT 8169;;Programado;2018-11-02;20:50;20:50;Palma Mallorca;PMI;2018-11-02; 19:50;
+Air Europa;UX 6102;1;Programado;2018-11-02;20:50;20:50;Palma Mallorca;PMI;2018-11-02; 20:00;
+Aeroflot;SU 3649;1;Programado;2018-11-02;20:50;20:50;Palma Mallorca;PMI;2018-11-02; 20:00;
+Vueling;VY 2112;1;Programado - Puntual;2018-11-02;20:55;21:05;Malaga;AGP;2018-11-02; 19:20;
+Iberia;IB 5760;1;Programado - Puntual;2018-11-02;20:55;21:05;Malaga;AGP;2018-11-02; 19:20;
+Qatar Airways;QR 3731;1;Programado - Puntual;2018-11-02;20:55;21:05;Malaga;AGP;2018-11-02; 19:20;
+Vueling;VY 8323;1;Programado - Puntual;2018-11-02;20:55;20:44;Amsterdam;AMS;2018-11-02; 18:40;
+Iberia;IB 5305;1;Programado - Puntual;2018-11-02;20:55;20:44;Amsterdam;AMS;2018-11-02; 18:40;
+Ryanair;FR 9367;2;Programado - Puntual;2018-11-02;20:55;20:55;Bologna;BLQ;2018-11-02; 19:10;
+Vueling;VY 8245;1;Programado - Puntual;2018-11-02;21:00;21:00;Paris;CDG;2018-11-02; 19:15;
+Iberia;IB 5295;1;Programado - Puntual;2018-11-02;21:00;21:00;Paris;CDG;2018-11-02; 19:15;
+Wizz Air;W6 3175;2;Programado;2018-11-02;21:00;21:00;Bucharest;OTP;2018-11-02; 18:40;
+easyJet;U2 7383;2;Programado;2018-11-02;21:00;21:00;Southend;SEN;2018-11-02; 18:00;
+Vueling;VY 2916;1;Programado - Puntual;2018-11-02;21:10;21:10;Bordeaux;BOD;2018-11-02; 20:00;
+Iberia;IB 5346;1;Programado - Puntual;2018-11-02;21:10;21:10;Bordeaux;BOD;2018-11-02; 20:00;
+Vueling;VY 1317;1;Programado - Puntual;2018-11-02;21:15;21:27;Alicante;ALC;2018-11-02; 20:05;
+Iberia;IB 5415;1;Programado - Puntual;2018-11-02;21:15;21:27;Alicante;ALC;2018-11-02; 20:05;
+easyJet;U2 2767;2;Programado;2018-11-02;21:15;21:15;Milan;MXP;2018-11-02; 19:45;
+Vueling;VY 1578;1;Programado;2018-11-02;21:15;21:15;Asturias;OVD;2018-11-02; 19:45;
+Iberia;IB 5726;1;Programado;2018-11-02;21:15;21:15;Asturias;OVD;2018-11-02; 19:45;
+Qatar Airways;QR 3690;1;Programado;2018-11-02;21:15;21:15;Asturias;OVD;2018-11-02; 19:45;
+Wizz Air;W6 4405;2;Programado;2018-11-02;21:15;21:15;Sofia;SOF;2018-11-02; 19:10;
+Ryanair;FR 6399;2;Programado - Puntual;2018-11-02;21:20;21:20;Sevilla;SVQ;2018-11-02; 19:40;
+Air Nostrum;YW 8759;1;Programado;2018-11-02;21:30;21:30;Leon;LEN;2018-11-02; 20:05;
+Iberia;IB 8759;1;Programado;2018-11-02;21:30;21:30;Leon;LEN;2018-11-02; 20:05;
+British Airways;BA 482;1;Programado;2018-11-02;21:30;21:30;London;LHR;2018-11-02; 18:20;
+American Airlines;AA 6294;1;Programado;2018-11-02;21:30;21:30;London;LHR;2018-11-02; 18:20;
+Iberia;IB 7483;1;Programado;2018-11-02;21:30;21:30;London;LHR;2018-11-02; 18:20;
+JAL;JL 7743;1;Programado;2018-11-02;21:30;21:30;London;LHR;2018-11-02; 18:20;
+Ryanair;FR 4586;2;Programado - Puntual;2018-11-02;21:30;21:30;Porto;OPO;2018-11-02; 18:40;
+Vueling;VY 6103;1;Programado - Puntual;2018-11-02;21:35;21:36;Rome;FCO;2018-11-02; 19:50;
+Iberia;IB 5741;1;Programado - Puntual;2018-11-02;21:35;21:36;Rome;FCO;2018-11-02; 19:50;
+Vueling;VY 6002;1;Programado - Retrasado;2018-11-02;21:35;22:17;Florence;FLR;2018-11-02; 19:55;
+Iberia;IB 5172;1;Programado - Retrasado;2018-11-02;21:35;22:17;Florence;FLR;2018-11-02; 19:55;
+Qatar Airways;QR 3573;1;Programado - Retrasado;2018-11-02;21:35;22:17;Florence;FLR;2018-11-02; 19:55;
+Vueling;VY 8021;1;Programado - Puntual;2018-11-02;21:45;21:41;Paris;ORY;2018-11-02; 20:10;
+Iberia;IB 5213;1;Programado - Puntual;2018-11-02;21:45;21:41;Paris;ORY;2018-11-02; 20:10;
+Lufthansa;LH 1816;1;Programado;2018-11-02;21:50;21:50;Munich;MUC;2018-11-02; 19:50;
+Aegean Airlines;A3 1476;1;Programado;2018-11-02;21:50;21:50;Munich;MUC;2018-11-02; 19:50;
+ANA;NH 6077;1;Programado;2018-11-02;21:50;21:50;Munich;MUC;2018-11-02; 19:50;
+SAS;SK 3308;1;Programado;2018-11-02;21:50;21:50;Munich;MUC;2018-11-02; 19:50;
+United Airlines;UA 9299;1;Programado;2018-11-02;21:50;21:50;Munich;MUC;2018-11-02; 19:50;
+Oman Air;WY 5514;1;Programado;2018-11-02;21:50;21:50;Munich;MUC;2018-11-02; 19:50;
+Vueling;VY 3917;1;Programado - Puntual;2018-11-02;21:50;21:54;Palma Mallorca;PMI;2018-11-02; 21:00;
+Iberia;IB 5321;1;Programado - Puntual;2018-11-02;21:50;21:54;Palma Mallorca;PMI;2018-11-02; 21:00;
+Qatar Airways;QR 3661;1;Programado - Puntual;2018-11-02;21:50;21:54;Palma Mallorca;PMI;2018-11-02; 21:00;
+Vueling;VY 2269;1;Programado - Puntual;2018-11-02;21:50;22:04;Sevilla;SVQ;2018-11-02; 20:15;
+Iberia;IB 5737;1;Programado - Puntual;2018-11-02;21:50;22:04;Sevilla;SVQ;2018-11-02; 20:15;
+Qatar Airways;QR 3574;1;Programado - Puntual;2018-11-02;21:50;22:04;Sevilla;SVQ;2018-11-02; 20:15;
+Vueling;VY 1585;1;Programado - Puntual;2018-11-02;21:55;22:09;Valladolid;VLL;2018-11-02; 20:40;
+Iberia;IB 5595;1;Programado - Puntual;2018-11-02;21:55;22:09;Valladolid;VLL;2018-11-02; 20:40;
+Qatar Airways;QR 3506;1;Programado - Puntual;2018-11-02;21:55;22:09;Valladolid;VLL;2018-11-02; 20:40;
+Vueling;VY 6249;1;Programado - Puntual;2018-11-02;22:05;22:05;Zurich;ZRH;2018-11-02; 20:25;
+Iberia;IB 5211;1;Programado - Puntual;2018-11-02;22:05;22:05;Zurich;ZRH;2018-11-02; 20:25;
+Vueling;VY 7841;1;Programado - Puntual;2018-11-02;22:10;21:55;London;LHR;2018-11-02; 19:00;
+British Airways;BA 8077;1;Programado - Puntual;2018-11-02;22:10;21:55;London;LHR;2018-11-02; 19:00;
+Iberia;IB 5259;1;Programado - Puntual;2018-11-02;22:10;21:55;London;LHR;2018-11-02; 19:00;
+Norwegian Air International;D8 5575;2;Programado - Puntual;2018-11-02;22:15;22:15;Copenhagen;CPH;2018-11-02; 19:25;
+Iberia;IB 2100;1;Programado;2018-11-02;22:15;22:15;Madrid;MAD;2018-11-02; 21:00;
+JAL;JL 6981;1;Programado;2018-11-02;22:15;22:15;Madrid;MAD;2018-11-02; 21:00;
+LATAM Airlines;LA 7062;1;Programado;2018-11-02;22:15;22:15;Madrid;MAD;2018-11-02; 21:00;
+easyJet;U2 4419;2;Programado;2018-11-02;22:20;22:20;Lyon;LYS;2018-11-02; 21:00;
+Vueling;VY 3719;1;Programado - Puntual;2018-11-02;22:20;22:21;Menorca;MAH;2018-11-02; 21:30;
+Iberia;IB 5145;1;Programado - Puntual;2018-11-02;22:20;22:21;Menorca;MAH;2018-11-02; 21:30;
+Qatar Airways;QR 3667;1;Programado - Puntual;2018-11-02;22:20;22:21;Menorca;MAH;2018-11-02; 21:30;
+TAP Portugal;TP 1034;1;Programado;2018-11-02;22:20;22:20;Porto;OPO;2018-11-02; 19:35;
+easyJet;U2 3921;2;Programado - Puntual;2018-11-02;22:30;22:39;Paris;CDG;2018-11-02; 20:45;
+Ryanair;FR 8393;2;Programado - Puntual;2018-11-02;22:35;22:35;Budapest;BUD;2018-11-02; 20:00;
+Air Europa;UX 2011;1;Programado;2018-11-02;22:35;22:35;Madrid;MAD;2018-11-02; 21:20;
+Aerolineas Argentinas;AR 7324;1;Programado;2018-11-02;22:35;22:35;Madrid;MAD;2018-11-02; 21:20;
+Korean Air;KE 6653;1;Programado;2018-11-02;22:35;22:35;Madrid;MAD;2018-11-02; 21:20;
+Aeroflot;SU 3643;1;Programado;2018-11-02;22:35;22:35;Madrid;MAD;2018-11-02; 21:20;
+Aeroflot;SU 2512;1;Programado;2018-11-02;22:35;22:35;Moscow;SVO;2018-11-02; 20:05;
+Air Europa;UX 3288;1;Programado;2018-11-02;22:35;22:35;Moscow;SVO;2018-11-02; 20:05;
+Vueling;VY 1437;1;Programado - Puntual;2018-11-02;22:40;22:39;Bilbao;BIO;2018-11-02; 21:30;
+Iberia;IB 5797;1;Programado - Puntual;2018-11-02;22:40;22:39;Bilbao;BIO;2018-11-02; 21:30;
+Qatar Airways;QR 3582;1;Programado - Puntual;2018-11-02;22:40;22:39;Bilbao;BIO;2018-11-02; 21:30;
+Vueling;VY 7825;1;Programado - Puntual;2018-11-02;22:40;22:35;London;LGW;2018-11-02; 19:35;
+British Airways;BA 8063;1;Programado - Puntual;2018-11-02;22:40;22:35;London;LGW;2018-11-02; 19:35;
+Iberia;IB 5522;1;Programado - Puntual;2018-11-02;22:40;22:35;London;LGW;2018-11-02; 19:35;
+Vueling;VY 1817;1;Programado;2018-11-02;22:40;22:40;Munich;MUC;2018-11-02; 20:30;
+Iberia;IB 5059;1;Programado;2018-11-02;22:40;22:40;Munich;MUC;2018-11-02; 20:30;
+Vueling;VY 6337;1;Programado - Retrasado;2018-11-02;22:40;22:58;Milan;MXP;2018-11-02; 21:05;
+Iberia;IB 5743;1;Programado - Retrasado;2018-11-02;22:40;22:58;Milan;MXP;2018-11-02; 21:05;
+Vueling;VY 3919;1;Programado - Puntual;2018-11-02;22:40;22:43;Palma Mallorca;PMI;2018-11-02; 21:50;
+Iberia;IB 5163;1;Programado - Puntual;2018-11-02;22:40;22:43;Palma Mallorca;PMI;2018-11-02; 21:50;
+Qatar Airways;QR 3657;1;Programado - Puntual;2018-11-02;22:40;22:43;Palma Mallorca;PMI;2018-11-02; 21:50;
+Vueling;VY 6107;1;Programado - Puntual;2018-11-02;22:50;22:57;Rome;FCO;2018-11-02; 21:05;
+Iberia;IB 5381;1;Programado - Puntual;2018-11-02;22:50;22:57;Rome;FCO;2018-11-02; 21:05;
+Vueling;VY 3519;1;Programado - Puntual;2018-11-02;22:50;22:53;Ibiza;IBZ;2018-11-02; 21:55;
+Iberia;IB 5349;1;Programado - Puntual;2018-11-02;22:50;22:53;Ibiza;IBZ;2018-11-02; 21:55;
+Qatar Airways;QR 3613;1;Programado - Puntual;2018-11-02;22:50;22:53;Ibiza;IBZ;2018-11-02; 21:55;
+easyJet;U2 1081;2;Programado;2018-11-02;22:55;22:55;Basel, Switzerland / Mulhouse;BSL;2018-11-02; 21:15;
+Joon;JN 1448;1;Programado;2018-11-02;22:55;22:55;Paris;CDG;2018-11-02; 21:10;
+Aeromexico;AM 6031;1;Programado;2018-11-02;22:55;22:55;Paris;CDG;2018-11-02; 21:10;
+JAL;JL 5353;1;Programado;2018-11-02;22:55;22:55;Paris;CDG;2018-11-02; 21:10;
+Korean Air;KE 6341;1;Programado;2018-11-02;22:55;22:55;Paris;CDG;2018-11-02; 21:10;
+China Eastern Airlines;MU 8637;1;Programado;2018-11-02;22:55;22:55;Paris;CDG;2018-11-02; 21:10;
+Air Europa;UX 3348;1;Programado;2018-11-02;22:55;22:55;Paris;CDG;2018-11-02; 21:10;
+Vietnam Airlines;VN 3674;1;Programado;2018-11-02;22:55;22:55;Paris;CDG;2018-11-02; 21:10;
+Air France;AF 1448;1;Programado;2018-11-02;22:55;22:55;Paris;CDG;2018-11-02; 21:10;
+easyJet;U2 8581;2;Programado;2018-11-02;22:55;22:55;London;LGW;2018-11-02; 19:50;
+SWISS;LX 1950;1;Programado;2018-11-02;22:55;22:55;Zurich;ZRH;2018-11-02; 21:15;
+Vueling;VY 1673;1;Programado - Puntual;2018-11-02;23:00;23:07;Santiago De Compostela;SCQ;2018-11-02; 21:20;
+Iberia;IB 5055;1;Programado - Puntual;2018-11-02;23:00;23:07;Santiago De Compostela;SCQ;2018-11-02; 21:20;
+Qatar Airways;QR 3561;1;Programado - Puntual;2018-11-02;23:00;23:07;Santiago De Compostela;SCQ;2018-11-02; 21:20;
+KLM;KL 1681;1;Programado - Puntual;2018-11-02;23:05;23:05;Amsterdam;AMS;2018-11-02; 20:55;
+Aeromexico;AM 6510;1;Programado - Puntual;2018-11-02;23:05;23:05;Amsterdam;AMS;2018-11-02; 20:55;
+China Southern Airlines;CZ 7713;1;Programado - Puntual;2018-11-02;23:05;23:05;Amsterdam;AMS;2018-11-02; 20:55;
+Etihad Airways;EY 7327;1;Programado - Puntual;2018-11-02;23:05;23:05;Amsterdam;AMS;2018-11-02; 20:55;
+Korean Air;KE 6413;1;Programado - Puntual;2018-11-02;23:05;23:05;Amsterdam;AMS;2018-11-02; 20:55;
+Xiamen Airlines;MF 9707;1;Programado - Puntual;2018-11-02;23:05;23:05;Amsterdam;AMS;2018-11-02; 20:55;
+Air Mauritius;MK 7600;1;Programado - Puntual;2018-11-02;23:05;23:05;Amsterdam;AMS;2018-11-02; 20:55;
+China Eastern Airlines;MU 6255;1;Programado - Puntual;2018-11-02;23:05;23:05;Amsterdam;AMS;2018-11-02; 20:55;
+Norwegian Air International;D8 5555;2;Programado - Puntual;2018-11-02;23:05;23:05;Stockholm;ARN;2018-11-02; 19:40;
+Ryanair;FR 8140;2;Programado - Puntual;2018-11-02;23:05;23:05;Ibiza;IBZ;2018-11-02; 22:10;
+Vueling;VY 2118;1;Programado - Puntual;2018-11-02;23:10;23:10;Malaga;AGP;2018-11-02; 21:35;
+Iberia;IB 5362;1;Programado - Puntual;2018-11-02;23:10;23:10;Malaga;AGP;2018-11-02; 21:35;
+Qatar Airways;QR 3511;1;Programado - Puntual;2018-11-02;23:10;23:10;Malaga;AGP;2018-11-02; 21:35;
+Alitalia;AZ 78;1;Programado;2018-11-02;23:15;23:15;Rome;FCO;2018-11-02; 21:25;
+Bulgaria Air;FB 1467;1;Programado;2018-11-02;23:15;23:15;Rome;FCO;2018-11-02; 21:25;
+Air Serbia;JU 8412;1;Programado;2018-11-02;23:15;23:15;Rome;FCO;2018-11-02; 21:25;
+Korean Air;KE 6283;1;Programado;2018-11-02;23:15;23:15;Rome;FCO;2018-11-02; 21:25;
+China Eastern Airlines;MU 8195;1;Programado;2018-11-02;23:15;23:15;Rome;FCO;2018-11-02; 21:25;
+Aeroflot;SU 4183;1;Programado;2018-11-02;23:15;23:15;Rome;FCO;2018-11-02; 21:25;
+Air Europa;UX 3129;1;Programado;2018-11-02;23:15;23:15;Rome;FCO;2018-11-02; 21:25;
+Lufthansa;LH 1138;1;Programado;2018-11-02;23:15;23:15;Frankfurt;FRA;2018-11-02; 21:15;
+Air China;CA 6293;1;Programado;2018-11-02;23:15;23:15;Frankfurt;FRA;2018-11-02; 21:15;
+SAS;SK 3380;1;Programado;2018-11-02;23:15;23:15;Frankfurt;FRA;2018-11-02; 21:15;
+Thai Airways International;TG 7656;1;Programado;2018-11-02;23:15;23:15;Frankfurt;FRA;2018-11-02; 21:15;
+Norwegian Air International;D8 5503;2;Programado - Puntual;2018-11-02;23:15;23:15;London;LGW;2018-11-02; 20:15;
+Ryanair;FR 6380;2;Programado - Puntual;2018-11-02;23:15;23:15;Santiago De Compostela;SCQ;2018-11-02; 21:30;
+Ryanair;FR 3046;2;Programado - Puntual;2018-11-02;23:15;23:15;Venice;VCE;2018-11-02; 21:20;
+Vueling;VY 1509;1;Programado - Puntual;2018-11-02;23:20;23:20;Marseille;MRS;2018-11-02; 22:20;
+Iberia;IB 5043;1;Programado - Puntual;2018-11-02;23:20;23:20;Marseille;MRS;2018-11-02; 22:20;
+Ryanair;FR 9814;2;Programado - Puntual;2018-11-02;23:20;23:20;London;STN;2018-11-02; 20:05;
+Ryanair;FR 3075;2;Programado - Puntual;2018-11-02;23:20;23:20;Sevilla;SVQ;2018-11-02; 21:40;
+Ryanair;FR 6366;2;Programado - Puntual;2018-11-02;23:30;23:30;Milan;BGY;2018-11-02; 21:50;
+Norwegian Air International;D8 5753;2;Programado - Puntual;2018-11-02;23:30;23:30;Las Palmas;LPA;2018-11-02; 19:20;
+Vueling;VY 8023;1;Programado - Puntual;2018-11-02;23:30;23:32;Paris;ORY;2018-11-02; 21:55;
+Iberia;IB 5277;1;Programado - Puntual;2018-11-02;23:30;23:32;Paris;ORY;2018-11-02; 21:55;
+Vueling;VY 8991;1;Programado - Puntual;2018-11-02;23:35;23:36;Brussels;BRU;2018-11-02; 21:35;
+Iberia;IB 5337;1;Programado - Puntual;2018-11-02;23:35;23:36;Brussels;BRU;2018-11-02; 21:35;
+Vueling;VY 1518;1;Programado - Puntual;2018-11-02;23:35;23:35;Nice;NCE;2018-11-02; 22:20;
+Iberia;IB 5048;1;Programado - Puntual;2018-11-02;23:35;23:35;Nice;NCE;2018-11-02; 22:20;
+Vueling;VY 8475;1;Programado - Retrasado;2018-11-02;23:35;23:51;Porto;OPO;2018-11-02; 20:55;
+Iberia;IB 5713;1;Programado - Retrasado;2018-11-02;23:35;23:51;Porto;OPO;2018-11-02; 20:55;
+TAP Portugal;TP 1042;1;Programado;2018-11-02;23:40;23:40;Lisbon;LIS;2018-11-02; 20:50;
+Air Canada;AC 6940;1;Programado;2018-11-02;23:40;23:40;Lisbon;LIS;2018-11-02; 20:50;
+Etihad Airways;EY 5809;1;Programado;2018-11-02;23:40;23:40;Lisbon;LIS;2018-11-02; 20:50;
+United Airlines;UA 6870;1;Programado;2018-11-02;23:40;23:40;Lisbon;LIS;2018-11-02; 20:50;
+Vueling;VY 3901;1;Programado - Puntual;2018-11-02;23:40;23:42;Palma Mallorca;PMI;2018-11-02; 22:50;
+Iberia;IB 5175;1;Programado - Puntual;2018-11-02;23:40;23:42;Palma Mallorca;PMI;2018-11-02; 22:50;
+Swiftair;WT 114;;Programado;2018-11-02;23:45;23:45;Palma Mallorca;PMI;2018-11-02; 22:45;
+Vueling;VY 6403;1;Programado - Puntual;2018-11-02;23:45;23:51;Venice;VCE;2018-11-02; 21:55;
+Iberia;IB 5231;1;Programado - Puntual;2018-11-02;23:45;23:51;Venice;VCE;2018-11-02; 21:55;
+Ryanair;FR 2508;2;Programado - Puntual;2018-11-02;23:50;23:50;Cologne;CGN;2018-11-02; 21:25;
+Ryanair;FR 1526;2;Programado - Retrasado;2018-11-02;23:50;00:15;Malta;MLA;2018-11-02; 21:35;
+Vueling;VY 1705;1;Programado - Puntual;2018-11-02;23:50;23:53;Vigo;VGO;2018-11-02; 22:10;
+Iberia;IB 5729;1;Programado - Puntual;2018-11-02;23:50;23:53;Vigo;VGO;2018-11-02; 22:10;
+Qatar Airways;QR 3599;1;Programado - Puntual;2018-11-02;23:50;23:53;Vigo;VGO;2018-11-02; 22:10;
+Ryanair;FR 6303;2;Programado - Puntual;2018-11-02;23:55;23:55;Puerto del Rosario;FUE;2018-11-02; 19:45;
+Vueling;VY 1297;1;Programado - Puntual;2018-11-02;23:55;23:57;La Coruna;LCG;2018-11-02; 22:15;
+Iberia;IB 5909;1;Programado - Puntual;2018-11-02;23:55;23:57;La Coruna;LCG;2018-11-02; 22:15;
+Vueling;VY 8463;1;Programado - Puntual;2018-11-02;23:55;23:53;Lisbon;LIS;2018-11-02; 21:00;
+Iberia;IB 5317;1;Programado - Puntual;2018-11-02;23:55;23:53;Lisbon;LIS;2018-11-02; 21:00;
+Qatar Airways;QR 3594;1;Programado - Puntual;2018-11-02;23:55;23:53;Lisbon;LIS;2018-11-02; 21:00;
+Vueling;VY 6503;1;Programado - Puntual;2018-11-02;23:55;23:49;Naples;NAP;2018-11-02; 21:55;
+Iberia;IB 5237;1;Programado - Puntual;2018-11-02;23:55;23:49;Naples;NAP;2018-11-02; 21:55;
+Qatar Airways;QR 3693;1;Programado - Puntual;2018-11-02;23:55;23:49;Naples;NAP;2018-11-02; 21:55;
+Ryanair;FR 4596;2;Programado - Puntual;2018-11-02;23:55;23:55;Porto;OPO;2018-11-02; 21:05;
+Vueling;VY 8657;1;Programado - Puntual;2018-11-02;23:55;23:54;Prague;PRG;2018-11-02; 21:30;
+Iberia;IB 5323;1;Programado - Puntual;2018-11-02;23:55;23:54;Prague;PRG;2018-11-02; 21:30;
+Ryanair;FR 3081;2;Programado - Puntual;2018-11-02;23:59;00:00;Malaga;AGP;2018-11-02; 22:20;
