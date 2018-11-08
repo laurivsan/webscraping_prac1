@@ -1,4 +1,4 @@
-# PRAC2 webscraping
+# PRAC1 webscraping
 
 Autor : Laura Rivera
 
